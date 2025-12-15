@@ -1,7 +1,7 @@
 ---
 title: "All Collections"
 layout: single
-permalink: /collections/
+permalink: /collection/
 author_profile: false
 classes: wide
 ---
