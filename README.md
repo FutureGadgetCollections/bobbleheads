@@ -1,10 +1,10 @@
-# Future Gadget Collections - LEGO
+# Future Gadget Collections - Bobbleheads
 
-A curated showcase of LEGO collections from Future Gadget Labs & EVLution Collectibles.
+A curated showcase of bobblehead collections from Future Gadget Labs & EVLution Collectibles.
 
 ## About
 
-This site serves as a digital catalog and showcase for the LEGO collection, featuring sets from various themes including Star Wars, Harry Potter, Ninjago, Disney, Netflix, F1, and Nintendo.
+This site serves as a digital catalog and investment tracker for the bobblehead collection, featuring stadium giveaways and promotional items from Detroit sports teams including the Lions, Tigers, Red Wings, and Pistons.
 
 ## Running Locally
 
@@ -17,11 +17,12 @@ To run this Jekyll site locally on your machine:
 
 2. **Start the local server:**
    ```bash
-   bundle exec jekyll serve
+   bundle exec jekyll serve 
    ```
 
+
 3. **View the site:**
-   Open your browser and navigate to `http://127.0.0.1:4000/lego/`
+   Open your browser and navigate to `http://127.0.0.1:4000/bobbleheads/`
 
 The site will automatically rebuild when you make changes to files. Press `Ctrl+C` to stop the server.
 
