@@ -32,9 +32,8 @@ This bobblehead was a stadium giveaway promotional item distributed to the first
 
 ### Boxed & Unboxed Item
 
-![2023 Aidan Hutchinson Bobblehead](/assets/images/collection/aidan-hutchinson-boxed-and-unboxed.png)
+![aidan]({{ site.baseurl }}/assets/images/lions/aidan.png)
 
-*2023 Aidan Hutchinson bobblehead - boxed and unboxed views*
 
 ---
 

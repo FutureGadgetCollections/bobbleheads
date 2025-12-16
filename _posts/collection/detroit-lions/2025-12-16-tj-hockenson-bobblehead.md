@@ -32,9 +32,7 @@ This bobblehead was a stadium giveaway promotional item distributed to the first
 
 ### Boxed & Unboxed Item
 
-![2022 T.J. Hockenson Bobblehead](/assets/images/collection/tj-hockenson-boxed-and-unboxed.png)
-
-*2022 T.J. Hockenson bobblehead - boxed and unboxed views*
+![tj-hockenson]({{ site.baseurl }}/assets/images/lions/tj-hockenson-boxed-and-unboxed.png)
 
 ---
 

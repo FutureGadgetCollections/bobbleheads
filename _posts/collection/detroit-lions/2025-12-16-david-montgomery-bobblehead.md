@@ -32,15 +32,11 @@ This bobblehead was a stadium giveaway promotional item distributed to the first
 
 ### Boxed Item
 
-![2024 David Montgomery Bobblehead - In Box](/assets/images/collection/david-montgomery-boxed.png)
-
-*2024 David Montgomery bobblehead in original box*
+![david-montgomery-boxed]({{ site.baseurl }}/assets/images/lions/david-montgomery-boxed.png)
 
 ### Unboxed Item
 
-![2024 David Montgomery Bobblehead - Out of Box](/assets/images/collection/david-montgomery-unboxed-front.png)
-
-*2024 David Montgomery bobblehead - front view*
+![david-montgomery-unboxed]({{ site.baseurl }}/assets/images/lions/david-montgomery-unboxed-front.png)
 
 ---
 

@@ -32,15 +32,11 @@ This bobblehead was a stadium giveaway promotional item distributed to the first
 
 ### Boxed Item
 
-![2024 Jahmyr Gibbs Bobblehead - In Box](/assets/images/collection/jahmyr-gibbs-boxed.png)
-
-*2024 Jahmyr Gibbs bobblehead in original box*
+![jahmyr-gibbs-boxed]({{ site.baseurl }}/assets/images/lions/jahmyr-gibbs-boxed.png)
 
 ### Unboxed Item
 
-![2024 Jahmyr Gibbs Bobblehead - Out of Box](/assets/images/collection/jahmyr-gibbs-unboxed-front.png)
-
-*2024 Jahmyr Gibbs bobblehead - front view*
+![jahmyr-gibbs-unboxed]({{ site.baseurl }}/assets/images/lions/jahmyr-gibbs-unboxed-front.png)
 
 ---
 
