@@ -30,13 +30,9 @@ This bobblehead was a stadium giveaway promotional item distributed to the first
 
 ## Images
 
-### Boxed Item
+### Boxed & Unboxed Item
 
-![jahmyr-gibbs-boxed]({{ site.baseurl }}/assets/images/lions/jahmyr-gibbs-boxed.png)
-
-### Unboxed Item
-
-![jahmyr-gibbs-unboxed]({{ site.baseurl }}/assets/images/lions/jahmyr-gibbs-unboxed-front.png)
+![jahmyr-gibbs]({{ site.baseurl }}/assets/images/lions/jahmyr-gibbs-boxed.jpg)
 
 ---
 
@@ -52,23 +48,17 @@ This bobblehead was a stadium giveaway promotional item distributed to the first
 
 ### Market Insights
 
-**Sales Performance:**
-- **Last Sold Price:** $75.00
-- **Historical Sell Through:** Approximately 2 sales in the past year
-- **Market Assessment:** Low sales volume suggests this is a relatively rare item with limited market activity
+#### Sales Performance
 
-**Current Listings:**
-- **Total Active Listings:** 11
-- **Average Asking Price (Bottom 3):** $90.00
-- **Price Range:** Varies across listings
-- **Market Trend:** Asking prices are currently ~20% higher than recent sold prices, suggesting sellers are pricing optimistically
+| Date | Last Sold Price (Estimated Value) | Sell Through |
+|------|-----------------------------------|--------------|
+| 2025-12-16 | $75.00 | 2 sales/year |
 
-**Investment Analysis:**
-- **Purchase Price:** $60.00
-- **Current Market Value:** $75.00
-- **Unrealized Gain:** $15.00
-- **ROI:** 25.00%
-- **Liquidity:** Low (based on limited sales history)
+#### Current Listings
+
+| Date | Total Active Listings | Listings Within 20% of Last Sold | Avg Asking Price (Within 20%) |
+|------|-----------------------|----------------------------------|-------------------------------|
+| 2025-12-16 | 11 | 3 | $75.00 |
 
 ### Observations
 
@@ -98,21 +88,14 @@ This bobblehead was a stadium giveaway promotional item distributed to the first
 | **Total Purchase Amount** | $60.00 | Total invested in this item |
 | **Purchase Date** | 2025-12-11 | Initial purchase date |
 | **Current Market Value** | $75.00 | Based on recent eBay sales |
+| **Fee Adjusted Market Value** | $63.75 | 85% of market value (after fees) |
 | **Market Value Date** | 2025-12-16 | Date of market value assessment |
 | **Holding Period** | 5 days | Days since purchase |
 | **Unrealized Gain/Loss** | +$15.00 | Current value minus purchase price |
 | **ROI Percentage** | +25.00% | (Gain / Purchase Price) × 100 |
-| **Annualized ROI** | +1,825.00% | Projected annual return rate |
-
-**Investment Performance:** Currently showing a strong 25% return in just 5 days. However, this is a recent purchase and the market value should be monitored over time for a more accurate long-term ROI assessment.
-
----
-
-## Related Items
-
-- [2023 Aidan Hutchinson Bobblehead](/collection/detroit-lions/aidan-hutchinson-bobblehead/)
-- [2024 David Montgomery Bobblehead](/collection/detroit-lions/david-montgomery-bobblehead/)
-- [2022 T.J. Hockenson Bobblehead](/collection/detroit-lions/tj-hockenson-bobblehead/)
+| **Fee Adjusted ROI Percentage** | +6.25% | (Fee Adjusted Value - Purchase) / Purchase × 100 |
+| **Annualized ROI** | +25.99% | Based on 350-day holding period from Jan 1 |
+| **Fee Adjusted Annualized ROI** | +6.48% | Annualized return after 15% fees |
 
 ---
 

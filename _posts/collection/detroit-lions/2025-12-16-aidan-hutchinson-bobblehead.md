@@ -32,8 +32,7 @@ This bobblehead was a stadium giveaway promotional item distributed to the first
 
 ### Boxed & Unboxed Item
 
-![aidan]({{ site.baseurl }}/assets/images/lions/aidan.png)
-
+![aidan-hutchinson]({{ site.baseurl }}/assets/images/lions/aidan-hutchinson-boxed.jpg)
 
 ---
 
@@ -49,23 +48,17 @@ This bobblehead was a stadium giveaway promotional item distributed to the first
 
 ### Market Insights
 
-**Sales Performance:**
-- **Last Sold Price:** $60.00
-- **Historical Sell Through:** Approximately 1 sale in the past year
-- **Market Assessment:** Very low sales volume suggests limited market activity and strong holder retention
+#### Sales Performance
 
-**Current Listings:**
-- **Total Active Listings:** 9
-- **Average Asking Price (Top 2):** $70.00
-- **Price Range:** Varies across listings
-- **Market Trend:** Asking prices are ~17% higher than recent sold price, indicating sellers expect appreciation
+| Date | Last Sold Price (Estimated Value) | Sell Through |
+|------|-----------------------------------|--------------|
+| 2025-12-16 | $60.00 | 1 sale/year |
 
-**Investment Analysis:**
-- **Purchase Price:** $55.00
-- **Current Market Value:** $70.00
-- **Unrealized Gain:** $15.00
-- **ROI:** 27.27%
-- **Liquidity:** Very Low (only 1 sale in past year)
+#### Current Listings
+
+| Date | Total Active Listings | Listings Within 20% of Last Sold | Avg Asking Price (Within 20%) |
+|------|-----------------------|----------------------------------|-------------------------------|
+| 2025-12-16 | 9 | 2 | $70.00 |
 
 ### Observations
 
@@ -94,21 +87,14 @@ This bobblehead was a stadium giveaway promotional item distributed to the first
 | **Total Purchase Amount** | $55.00 | Total invested in this item |
 | **Purchase Date** | 2025-12-11 | Initial purchase date |
 | **Current Market Value** | $70.00 | Estimated current market value |
+| **Fee Adjusted Market Value** | $59.50 | 85% of market value (after fees) |
 | **Market Value Date** | 2025-12-16 | Date of market value assessment |
 | **Holding Period** | 5 days | Days since purchase |
 | **Unrealized Gain/Loss** | +$15.00 | Current value minus purchase price |
 | **ROI Percentage** | +27.27% | (Gain / Purchase Price) × 100 |
-| **Annualized ROI** | +1,992.73% | Projected annual return rate |
-
-**Investment Performance:** Currently showing an excellent 27.27% return in just 5 days. This is a recent purchase and the market value should be monitored over time for a more accurate long-term ROI assessment.
-
----
-
-## Related Items
-
-- [2024 Jahmyr Gibbs Bobblehead](/collection/detroit-lions/jahmyr-gibbs-bobblehead/)
-- [2024 David Montgomery Bobblehead](/collection/detroit-lions/david-montgomery-bobblehead/)
-- [2022 T.J. Hockenson Bobblehead](/collection/detroit-lions/tj-hockenson-bobblehead/)
+| **Fee Adjusted ROI Percentage** | +8.18% | (Fee Adjusted Value - Purchase) / Purchase × 100 |
+| **Annualized ROI** | +28.41% | Based on 350-day holding period from Jan 1 |
+| **Fee Adjusted Annualized ROI** | +8.48% | Annualized return after 15% fees |
 
 ---
 

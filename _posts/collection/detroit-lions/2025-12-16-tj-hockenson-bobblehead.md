@@ -32,8 +32,7 @@ This bobblehead was a stadium giveaway promotional item distributed to the first
 
 ### Boxed & Unboxed Item
 
-![tj-hockenson]({{ site.baseurl }}/assets/images/lions/tj-hockenson-boxed-and-unboxed.png)
-
+![tj-hockenson]({{ site.baseurl }}/assets/images/lions/tj-hockenson-boxed.jpg)
 ---
 
 ## Market Research
@@ -48,23 +47,17 @@ This bobblehead was a stadium giveaway promotional item distributed to the first
 
 ### Market Insights
 
-**Sales Performance:**
-- **Last Sold Price:** N/A
-- **Historical Sell Through:** 0 sales in the past 3+ years
-- **Market Assessment:** Extremely illiquid market with no recent sales activity; primarily a collector's piece for Lions history
+#### Sales Performance
 
-**Current Listings:**
-- **Total Active Listings:** 1 (NIB)
-- **Average Asking Price:** $50.00
-- **Price Range:** Only one listing available
-- **Market Trend:** Unable to determine trend due to lack of sales data; asking price is 2.5x estimated market value
+| Date | Last Sold Price (Estimated Value) | Sell Through |
+|------|-----------------------------------|--------------|
+| 2025-12-16 | N/A | 0 sales (3+ years) |
 
-**Investment Analysis:**
-- **Purchase Price:** $16.00
-- **Current Market Value:** $20.00 (conservative estimate given no sales)
-- **Unrealized Gain:** $4.00
-- **ROI:** 25.00%
-- **Liquidity:** Extremely Low (no sales in 3+ years - this is a long-term hold item)
+#### Current Listings
+
+| Date | Total Active Listings | Listings Within 20% of Last Sold | Avg Asking Price (Within 20%) |
+|------|-----------------------|----------------------------------|-------------------------------|
+| 2025-12-16 | 1 | N/A | $20.00 (estimated) |
 
 ### Observations
 
@@ -95,27 +88,20 @@ This bobblehead was a stadium giveaway promotional item distributed to the first
 | **Total Purchase Amount** | $16.00 | Total invested in this item |
 | **Purchase Date** | 2025-12-11 | Initial purchase date |
 | **Current Market Value** | $20.00 | Estimated current market value |
+| **Fee Adjusted Market Value** | $17.00 | 85% of market value (after fees) |
 | **Market Value Date** | 2025-12-16 | Date of market value assessment |
 | **Holding Period** | 5 days | Days since purchase |
 | **Unrealized Gain/Loss** | +$4.00 | Current value minus purchase price |
 | **ROI Percentage** | +25.00% | (Gain / Purchase Price) × 100 |
-| **Annualized ROI** | +1,825.00% | Projected annual return rate |
-
-**Investment Performance:** Currently showing a solid 25% return in just 5 days. Given the historical significance of this item (player traded mid-season), long-term value may depend on Hockenson's career trajectory and collector interest in former Lions players.
+| **Fee Adjusted ROI Percentage** | +6.25% | (Fee Adjusted Value - Purchase) / Purchase × 100 |
+| **Annualized ROI** | +25.99% | Based on 350-day holding period from Jan 1 |
+| **Fee Adjusted Annualized ROI** | +6.48% | Annualized return after 15% fees |
 
 ---
 
 ## Historical Note
 
 T.J. Hockenson was traded from the Detroit Lions to the Minnesota Vikings on November 1, 2022, partway through the season in which this bobblehead was distributed. This makes the item particularly interesting as a historical snapshot of the Lions roster before the trade.
-
----
-
-## Related Items
-
-- [2024 Jahmyr Gibbs Bobblehead](/collection/detroit-lions/jahmyr-gibbs-bobblehead/)
-- [2023 Aidan Hutchinson Bobblehead](/collection/detroit-lions/aidan-hutchinson-bobblehead/)
-- [2024 David Montgomery Bobblehead](/collection/detroit-lions/david-montgomery-bobblehead/)
 
 ---
 

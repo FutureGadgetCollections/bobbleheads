@@ -6,11 +6,23 @@ author_profile: false
 classes: wide
 ---
 
-## Bobbleheads
+## Collection Summary
 
 {% assign tigers_posts = site.categories.detroit-tigers %}
 {% for post in tigers_posts %}
-  {% include archive-single.html %}
+  {% if post.permalink == "/collection/detroit-tigers/collection-summary/" %}
+    {% include archive-single.html %}
+  {% endif %}
+{% endfor %}
+
+---
+
+## Individual Bobbleheads - Market Research & Analysis
+
+{% for post in tigers_posts %}
+  {% if post.permalink != "/collection/detroit-tigers/collection-summary/" %}
+    {% include archive-single.html %}
+  {% endif %}
 {% endfor %}
 
 ---
