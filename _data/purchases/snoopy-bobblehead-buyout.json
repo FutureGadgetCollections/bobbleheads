@@ -1,0 +1,65 @@
+{
+  "purchase": {
+    "title": "Snoopy Bobblehead Buyout",
+    "purchaseDate": "2025-12-13",
+    "totalAmount": 60.00,
+    "source": "Facebook Marketplace",
+    "sellerProfile": "Tigers fan who attends many games"
+  },
+  "itemsAcquired": [
+    {
+      "item": "Snoopy Bobblehead",
+      "year": 2025,
+      "type": "Stadium Giveaway",
+      "purchasePrice": 38.00,
+      "marketValue": 60.00
+    },
+    {
+      "item": "Riley Green Bobblehead",
+      "year": 2023,
+      "type": "Stadium Giveaway",
+      "purchasePrice": 22.00,
+      "marketValue": 35.00
+    }
+  ],
+  "purchaseAnalysis": {
+    "totalPurchasePrice": 60.00,
+    "totalMarketValue": 95.00,
+    "discountFromMarket": 36.8,
+    "effectivePurchasePrice": 63,
+    "notes": "Individual item pricing allocated based on proportional market values."
+  },
+  "marketResearchSummary": {
+    "completedOn": "2025-12-15",
+    "snoopyBobblehead": {
+      "currentMarketValue": 60.00,
+      "activeListings": 4,
+      "historicalSales": 75.00,
+      "historicalSalesNote": "11 sales in June 2025 during giveaway month",
+      "marketTrend": "Declining from initial $75 to current $60",
+      "purchasePrice": 38.00,
+      "roi": 57.89
+    },
+    "rileyGreenBobblehead": {
+      "currentMarketValue": 35.00,
+      "activeListings": 1,
+      "historicalSales": 45.00,
+      "historicalSalesNote": "3 sales in Spring 2025",
+      "marketTrend": "Declining from $45 to current $35",
+      "purchasePrice": 22.00,
+      "roi": 59.09
+    },
+    "overallPerformance": {
+      "totalInvested": 60.00,
+      "currentMarketValue": 95.00,
+      "unrealizedGain": 35.00,
+      "overallRoi": 58.33
+    }
+  },
+  "transactionDetails": {
+    "location": "Facebook Marketplace meetup",
+    "inspection": "Items verified before payment",
+    "paymentMethod": "Cash",
+    "negotiation": "Purchased at listed price"
+  }
+}

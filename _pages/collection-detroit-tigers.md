@@ -6,6 +6,8 @@ author_profile: false
 classes: wide
 ---
 
+![Detroit Tigers]({{ site.baseurl }}/assets/images/themes/tigers.png)
+
 ## Collection Summary
 
 {% assign tigers_posts = site.categories.detroit-tigers %}

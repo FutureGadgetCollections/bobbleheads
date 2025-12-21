@@ -1,0 +1,22 @@
+{
+  "portfolioMetrics": [
+    {
+      "date": "2025-12-16",
+      "costBasis": 312.00,
+      "marketValue": 411.00,
+      "firesaleValue": 349.35,
+      "roi": 31.73,
+      "feeAdjustedRoi": 11.97,
+      "ytdRealizedProfits": 0.00
+    }
+  ],
+  "realizedProfits": [
+    {
+      "dateCaptured": "2025-12-16",
+      "realizedProfitSinceLastCapture": 0.00
+    }
+  ],
+  "totals": {
+    "totalRealizedProfit": 0.00
+  }
+}

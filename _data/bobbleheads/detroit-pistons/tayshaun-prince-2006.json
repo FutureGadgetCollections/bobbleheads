@@ -1,0 +1,94 @@
+{
+  "item": {
+    "name": "2006 Tayshaun Prince Bobblehead - Stadium Giveaway",
+    "year": 2006,
+    "player": "Tayshaun Prince (#22)",
+    "itemType": "Stadium Giveaway",
+    "distribution": "Given to early arriving fans",
+    "team": "Detroit Pistons"
+  },
+  "marketResearch": {
+    "ebayMarketAnalysis": [
+      {
+        "dateChecked": "2025-12-20",
+        "historicalDataLink": "https://www.ebay.com/sh/research?marketplace=EBAY-US&keywords=2006+Tayshaun+Prince+Pistons+Bobblehead&dayRange=1095",
+        "lastSoldPrice": null,
+        "marketValue": 20.00,
+        "historicalSellThrough": "Limited data",
+        "activeListingsLink": "https://www.ebay.com/sch/i.html?_nkw=2006+Tayshaun+Prince+Pistons+Bobblehead&_sacat=0",
+        "currentAskingPrice": 20.00,
+        "currentAskingPriceNote": "estimated",
+        "numberOfActiveListings": "Limited listings"
+      }
+    ],
+    "salesPerformance": [
+      {
+        "date": "2025-12-20",
+        "lastSoldPrice": null,
+        "sellThrough": "Limited data"
+      }
+    ],
+    "currentListings": [
+      {
+        "date": "2025-12-20",
+        "totalActiveListings": "Limited",
+        "listingsWithin20PercentOfLastSold": null,
+        "avgAskingPriceWithin20Percent": 20.00,
+        "avgAskingPriceNote": "estimated for used condition"
+      }
+    ],
+    "observations": [
+      "2006 championship-era Pistons bobblehead",
+      "Tayshaun Prince was key member of 2004 championship team",
+      "Popular player among Pistons fans",
+      "Vintage item from nearly 20 years ago",
+      "Used condition affects value"
+    ]
+  },
+  "purchaseHistory": [
+    {
+      "datePurchased": "2025-12-20",
+      "purchasePrice": 5.00,
+      "source": "Flint Used Collection Buyout",
+      "quantity": 1,
+      "condition": "Used",
+      "status": "Inventory",
+      "notes": "Part of 16-item bulk purchase"
+    }
+  ],
+  "positionAnalysis": [
+    {
+      "dateChecked": "2025-12-20",
+      "costBasis": 5.00,
+      "value": 20.00,
+      "realizedProfits": 0.00,
+      "roi": 300.00,
+      "postFeeRoi": 240.00
+    }
+  ],
+  "currentInventory": [
+    {
+      "date": "2025-12-20",
+      "quantity": 1,
+      "condition": "Used",
+      "currentValuePerUnit": 20.00
+    }
+  ],
+  "saleHistory": [],
+  "roiAnalysis": {
+    "totalPurchaseAmount": 5.00,
+    "purchaseDate": "2025-12-20",
+    "currentMarketValue": 20.00,
+    "feeAdjustedMarketValue": 17.00,
+    "feeAdjustedNote": "85% of market value (after fees)",
+    "marketValueDate": "2025-12-20",
+    "holdingPeriodDays": 0,
+    "unrealizedGainLoss": 15.00,
+    "roiPercentage": 300.00,
+    "feeAdjustedRoiPercentage": 240.00,
+    "annualizedRoi": 300.00,
+    "annualizedRoiNote": "Based on 350-day holding period from Jan 1",
+    "feeAdjustedAnnualizedRoi": 240.00,
+    "feeAdjustedAnnualizedRoiNote": "Annualized return after 15% fees"
+  }
+}

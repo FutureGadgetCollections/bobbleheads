@@ -1,0 +1,95 @@
+{
+  "item": {
+    "name": "2005 Ben Wallace Bobblehead - Stadium Giveaway",
+    "year": 2005,
+    "player": "Ben Wallace (#3)",
+    "itemType": "Stadium Giveaway",
+    "distribution": "Given to early arriving fans",
+    "team": "Detroit Pistons"
+  },
+  "marketResearch": {
+    "ebayMarketAnalysis": [
+      {
+        "dateChecked": "2025-12-20",
+        "historicalDataLink": "https://www.ebay.com/sh/research?marketplace=EBAY-US&keywords=2005+Ben+Wallace+Pistons+Bobblehead&dayRange=1095",
+        "lastSoldPrice": null,
+        "marketValue": 30.00,
+        "historicalSellThrough": "Limited data",
+        "activeListingsLink": "https://www.ebay.com/sch/i.html?_nkw=2005+Ben+Wallace+Pistons+Bobblehead&_sacat=0",
+        "currentAskingPrice": 30.00,
+        "currentAskingPriceNote": "estimated",
+        "numberOfActiveListings": "Limited listings"
+      }
+    ],
+    "salesPerformance": [
+      {
+        "date": "2025-12-20",
+        "lastSoldPrice": null,
+        "sellThrough": "Limited data"
+      }
+    ],
+    "currentListings": [
+      {
+        "date": "2025-12-20",
+        "totalActiveListings": "Limited",
+        "listingsWithin20PercentOfLastSold": null,
+        "avgAskingPriceWithin20Percent": 30.00,
+        "avgAskingPriceNote": "estimated for used condition"
+      }
+    ],
+    "observations": [
+      "2005 championship-era Pistons bobblehead",
+      "Ben Wallace was defensive anchor of 2004 championship team",
+      "4-time NBA Defensive Player of the Year",
+      "Hall of Fame player - high collectibility",
+      "Vintage item from 20 years ago",
+      "Used condition affects value but Wallace's legacy maintains demand"
+    ]
+  },
+  "purchaseHistory": [
+    {
+      "datePurchased": "2025-12-20",
+      "purchasePrice": 5.00,
+      "source": "Flint Used Collection Buyout",
+      "quantity": 1,
+      "condition": "Used",
+      "status": "Inventory",
+      "notes": "Part of 16-item bulk purchase"
+    }
+  ],
+  "positionAnalysis": [
+    {
+      "dateChecked": "2025-12-20",
+      "costBasis": 5.00,
+      "value": 30.00,
+      "realizedProfits": 0.00,
+      "roi": 500.00,
+      "postFeeRoi": 410.00
+    }
+  ],
+  "currentInventory": [
+    {
+      "date": "2025-12-20",
+      "quantity": 1,
+      "condition": "Used",
+      "currentValuePerUnit": 30.00
+    }
+  ],
+  "saleHistory": [],
+  "roiAnalysis": {
+    "totalPurchaseAmount": 5.00,
+    "purchaseDate": "2025-12-20",
+    "currentMarketValue": 30.00,
+    "feeAdjustedMarketValue": 25.50,
+    "feeAdjustedNote": "85% of market value (after fees)",
+    "marketValueDate": "2025-12-20",
+    "holdingPeriodDays": 0,
+    "unrealizedGainLoss": 25.00,
+    "roiPercentage": 500.00,
+    "feeAdjustedRoiPercentage": 410.00,
+    "annualizedRoi": 500.00,
+    "annualizedRoiNote": "Based on 350-day holding period from Jan 1",
+    "feeAdjustedAnnualizedRoi": 410.00,
+    "feeAdjustedAnnualizedRoiNote": "Annualized return after 15% fees"
+  }
+}

@@ -6,11 +6,25 @@ author_profile: false
 classes: wide
 ---
 
-## Bobbleheads
+![Detroit Pistons]({{ site.baseurl }}/assets/images/themes/pistons.png)
+
+## Collection Summary
 
 {% assign pistons_posts = site.categories.detroit-pistons %}
 {% for post in pistons_posts %}
-  {% include archive-single.html %}
+  {% if post.permalink == "/collection/detroit-pistons/collection-summary/" %}
+    {% include archive-single.html %}
+  {% endif %}
+{% endfor %}
+
+---
+
+## Individual Bobbleheads - Market Research & Analysis
+
+{% for post in pistons_posts %}
+  {% if post.permalink != "/collection/detroit-pistons/collection-summary/" %}
+    {% include archive-single.html %}
+  {% endif %}
 {% endfor %}
 
 ---

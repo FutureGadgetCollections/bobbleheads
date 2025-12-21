@@ -1,0 +1,94 @@
+{
+  "item": {
+    "name": "Juwan Howard Bobblehead",
+    "year": null,
+    "subject": "Juwan Howard (Coach)",
+    "itemType": "Bobblehead",
+    "distribution": "Unknown",
+    "team": "University of Michigan"
+  },
+  "marketResearch": {
+    "ebayMarketAnalysis": [
+      {
+        "dateChecked": "2025-12-20",
+        "historicalDataLink": "https://www.ebay.com/sh/research?marketplace=EBAY-US&keywords=Juwan+Howard+Michigan+Bobblehead&dayRange=1095",
+        "lastSoldPrice": null,
+        "marketValue": 18.00,
+        "historicalSellThrough": "Limited data",
+        "activeListingsLink": "https://www.ebay.com/sch/i.html?_nkw=Juwan+Howard+Michigan+Bobblehead&_sacat=0",
+        "currentAskingPrice": 18.00,
+        "currentAskingPriceNote": "estimated",
+        "numberOfActiveListings": "Limited listings"
+      }
+    ],
+    "salesPerformance": [
+      {
+        "date": "2025-12-20",
+        "lastSoldPrice": null,
+        "sellThrough": "Limited data"
+      }
+    ],
+    "currentListings": [
+      {
+        "date": "2025-12-20",
+        "totalActiveListings": "Limited",
+        "listingsWithin20PercentOfLastSold": null,
+        "avgAskingPriceWithin20Percent": 18.00,
+        "avgAskingPriceNote": "estimated for used condition"
+      }
+    ],
+    "observations": [
+      "Juwan Howard - Michigan Fab Five member and current head coach",
+      "Dual significance as player and coach",
+      "Current Michigan coach adds relevance",
+      "College coach bobbleheads have niche collectibility",
+      "Used condition affects value"
+    ]
+  },
+  "purchaseHistory": [
+    {
+      "datePurchased": "2025-12-20",
+      "purchasePrice": 5.00,
+      "source": "Flint Used Collection Buyout",
+      "quantity": 1,
+      "condition": "Used",
+      "status": "Inventory",
+      "notes": "Part of 16-item bulk purchase"
+    }
+  ],
+  "positionAnalysis": [
+    {
+      "dateChecked": "2025-12-20",
+      "costBasis": 5.00,
+      "value": 18.00,
+      "realizedProfits": 0.00,
+      "roi": 260.00,
+      "postFeeRoi": 206.00
+    }
+  ],
+  "currentInventory": [
+    {
+      "date": "2025-12-20",
+      "quantity": 1,
+      "condition": "Used",
+      "currentValuePerUnit": 18.00
+    }
+  ],
+  "saleHistory": [],
+  "roiAnalysis": {
+    "totalPurchaseAmount": 5.00,
+    "purchaseDate": "2025-12-20",
+    "currentMarketValue": 18.00,
+    "feeAdjustedMarketValue": 15.30,
+    "feeAdjustedNote": "85% of market value (after fees)",
+    "marketValueDate": "2025-12-20",
+    "holdingPeriodDays": 0,
+    "unrealizedGainLoss": 13.00,
+    "roiPercentage": 260.00,
+    "feeAdjustedRoiPercentage": 206.00,
+    "annualizedRoi": 260.00,
+    "annualizedRoiNote": "Based on 350-day holding period from Jan 1",
+    "feeAdjustedAnnualizedRoi": 206.00,
+    "feeAdjustedAnnualizedRoiNote": "Annualized return after 15% fees"
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "lastUpdated": "2025-12-16",
+  "positionAnalysis": [
+    {
+      "dateChecked": "2025-12-16",
+      "costBasis": 252.00,
+      "value": 316.00,
+      "realizedProfits": 0.00,
+      "roi": 25.40,
+      "postFeeRoi": 6.59
+    }
+  ],
+  "currentInventory": [
+    {
+      "item": "2024 Jahmyr Gibbs Bobblehead",
+      "quantity": 1,
+      "condition": "NIB",
+      "avgPurchaseCost": 60.00,
+      "marketValue": 75.00,
+      "link": "/bobbleheads/collection/detroit-lions/jahmyr-gibbs-bobblehead/"
+    },
+    {
+      "item": "2023 Aidan Hutchinson Bobblehead",
+      "quantity": 1,
+      "condition": "NIB",
+      "avgPurchaseCost": 55.00,
+      "marketValue": 70.00,
+      "link": "/bobbleheads/collection/detroit-lions/aidan-hutchinson-bobblehead/"
+    },
+    {
+      "item": "2024 David Montgomery Bobblehead",
+      "quantity": 1,
+      "condition": "NIB",
+      "avgPurchaseCost": 52.00,
+      "marketValue": 65.00,
+      "link": "/bobbleheads/collection/detroit-lions/david-montgomery-bobblehead/"
+    },
+    {
+      "item": "2022 T.J. Hockenson Bobblehead",
+      "quantity": 1,
+      "condition": "NIB",
+      "avgPurchaseCost": 16.00,
+      "marketValue": 20.00,
+      "link": "/bobbleheads/collection/detroit-lions/tj-hockenson-bobblehead/"
+    },
+    {
+      "item": "2024 Calvin Johnson Bobblehead",
+      "quantity": 1,
+      "condition": "NIB",
+      "avgPurchaseCost": 30.00,
+      "marketValue": 38.00,
+      "link": "/bobbleheads/collection/detroit-lions/calvin-johnson-bobblehead/"
+    },
+    {
+      "item": "2024 Brad Holmes Bobblehead",
+      "quantity": 1,
+      "condition": "NIB",
+      "avgPurchaseCost": 27.00,
+      "marketValue": 33.00,
+      "link": "/bobbleheads/collection/detroit-lions/brad-holmes-bobblehead/"
+    },
+    {
+      "item": "2023 Detroit Collector Coin",
+      "quantity": 1,
+      "condition": "NIB",
+      "avgPurchaseCost": 12.00,
+      "marketValue": 15.00,
+      "link": "/bobbleheads/collection/detroit-lions/detroit-collector-coin/"
+    }
+  ],
+  "purchaseHistory": [
+    {
+      "link": "/bobbleheads/purchases/season-ticket-holder-buyout/",
+      "date": "2025-12-11",
+      "item": "2024 Jahmyr Gibbs Bobblehead",
+      "quantity": 1,
+      "purchasePrice": 60.00
+    },
+    {
+      "link": "/bobbleheads/purchases/season-ticket-holder-buyout/",
+      "date": "2025-12-11",
+      "item": "2023 Aidan Hutchinson Bobblehead",
+      "quantity": 1,
+      "purchasePrice": 55.00
+    },
+    {
+      "link": "/bobbleheads/purchases/season-ticket-holder-buyout/",
+      "date": "2025-12-11",
+      "item": "2024 David Montgomery Bobblehead",
+      "quantity": 1,
+      "purchasePrice": 52.00
+    },
+    {
+      "link": "/bobbleheads/purchases/season-ticket-holder-buyout/",
+      "date": "2025-12-11",
+      "item": "2022 T.J. Hockenson Bobblehead",
+      "quantity": 1,
+      "purchasePrice": 16.00
+    },
+    {
+      "link": "/bobbleheads/purchases/season-ticket-holder-buyout/",
+      "date": "2025-12-11",
+      "item": "2024 Calvin Johnson Bobblehead",
+      "quantity": 1,
+      "purchasePrice": 30.00
+    },
+    {
+      "link": "/bobbleheads/purchases/season-ticket-holder-buyout/",
+      "date": "2025-12-11",
+      "item": "2024 Brad Holmes Bobblehead",
+      "quantity": 1,
+      "purchasePrice": 27.00
+    },
+    {
+      "link": "/bobbleheads/purchases/season-ticket-holder-buyout/",
+      "date": "2025-12-11",
+      "item": "2023 Detroit Collector Coin",
+      "quantity": 1,
+      "purchasePrice": 12.00
+    }
+  ]
+}

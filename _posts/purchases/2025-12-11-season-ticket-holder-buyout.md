@@ -27,16 +27,42 @@ This purchase originated from a Facebook Marketplace post by a Detroit Lions sea
 
 ## Items Acquired
 
-| Item | Year | Type | Purchase Price | Market Value |
-|------|------|------|----------------|--------------|
-| Jahmyr Gibbs Bobblehead | 2024 | Stadium Giveaway | $60.00 | $75.00 |
-| Aidan Hutchinson Bobblehead | 2023 | Stadium Giveaway | $55.00 | $70.00 |
-| David Montgomery Bobblehead | 2024 | Stadium Giveaway | $52.00 | $65.00 |
-| T.J. Hockenson Bobblehead | 2022 | Stadium Giveaway | $16.00 | $20.00 |
-| Calvin Johnson Bobblehead | 2024 | Stadium Giveaway | $30.00 | $38.00 |
-| Brad Holmes Bobblehead | 2024 | Season Ticket Holder Gift | $27.00 | $33.00 |
-| Detroit Collector Coin | 2023 | Season Ticket Holder Gift | $12.00 | $15.00 |
-| **TOTAL** | | | **$252.00** | **$316.00** |
+**Jahmyr Gibbs Bobblehead (2024)**
+- Type: Stadium Giveaway
+- Purchase Price: $60.00
+- Market Value: $75.00
+
+**Aidan Hutchinson Bobblehead (2023)**
+- Type: Stadium Giveaway
+- Purchase Price: $55.00
+- Market Value: $70.00
+
+**David Montgomery Bobblehead (2024)**
+- Type: Stadium Giveaway
+- Purchase Price: $52.00
+- Market Value: $65.00
+
+**T.J. Hockenson Bobblehead (2022)**
+- Type: Stadium Giveaway
+- Purchase Price: $16.00
+- Market Value: $20.00
+
+**Calvin Johnson Bobblehead (2024)**
+- Type: Stadium Giveaway
+- Purchase Price: $30.00
+- Market Value: $38.00
+
+**Brad Holmes Bobblehead (2024)**
+- Type: Season Ticket Holder Gift
+- Purchase Price: $27.00
+- Market Value: $33.00
+
+**Detroit Collector Coin (2023)**
+- Type: Season Ticket Holder Gift
+- Purchase Price: $12.00
+- Market Value: $15.00
+
+**TOTAL:** $252.00 (Purchase Price) / $316.00 (Market Value)
 
 *Note: Individual item prices were negotiated as part of the bulk purchase. Total paid was $250.00.*
 

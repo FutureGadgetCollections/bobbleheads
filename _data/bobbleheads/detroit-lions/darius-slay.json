@@ -1,0 +1,93 @@
+{
+  "item": {
+    "name": "2018 Darius Slay Bobblehead - Stadium Giveaway",
+    "year": 2018,
+    "player": "Darius Slay (#23)",
+    "itemType": "Stadium Giveaway",
+    "distribution": "Given to first 25,000 fans in attendance",
+    "team": "Detroit Lions"
+  },
+  "marketResearch": {
+    "ebayMarketAnalysis": [
+      {
+        "dateChecked": "2025-12-20",
+        "historicalDataLink": "https://www.ebay.com/sh/research?marketplace=EBAY-US&keywords=2018+Darius+Slay+Lions+Bobblehead&dayRange=1095",
+        "lastSoldPrice": null,
+        "marketValue": 15.00,
+        "historicalSellThrough": "Limited data",
+        "activeListingsLink": "https://www.ebay.com/sch/i.html?_nkw=2018+Darius+Slay+Lions+Bobblehead&_sacat=0",
+        "currentAskingPrice": 15.00,
+        "currentAskingPriceNote": "estimated",
+        "numberOfActiveListings": "Limited listings"
+      }
+    ],
+    "salesPerformance": [
+      {
+        "date": "2025-12-20",
+        "lastSoldPrice": null,
+        "sellThrough": "Limited data"
+      }
+    ],
+    "currentListings": [
+      {
+        "date": "2025-12-20",
+        "totalActiveListings": "Limited",
+        "listingsWithin20PercentOfLastSold": null,
+        "avgAskingPriceWithin20Percent": 15.00,
+        "avgAskingPriceNote": "estimated for used condition"
+      }
+    ],
+    "observations": [
+      "2018 Lions stadium giveaway",
+      "Darius Slay played for Lions 2013-2019",
+      "Pro Bowl cornerback",
+      "Used condition affects value"
+    ]
+  },
+  "purchaseHistory": [
+    {
+      "datePurchased": "2025-12-20",
+      "purchasePrice": 5.00,
+      "source": "Flint Used Collection Buyout",
+      "quantity": 1,
+      "condition": "Used",
+      "status": "Inventory",
+      "notes": "Part of 16-item bulk purchase"
+    }
+  ],
+  "positionAnalysis": [
+    {
+      "dateChecked": "2025-12-20",
+      "costBasis": 5.00,
+      "value": 15.00,
+      "realizedProfits": 0.00,
+      "roi": 200.00,
+      "postFeeRoi": 155.00
+    }
+  ],
+  "currentInventory": [
+    {
+      "date": "2025-12-20",
+      "quantity": 1,
+      "condition": "Used",
+      "currentValuePerUnit": 15.00
+    }
+  ],
+  "saleHistory": [],
+  "roiAnalysis": {
+    "totalPurchaseAmount": 5.00,
+    "purchaseDate": "2025-12-20",
+    "currentMarketValue": 15.00,
+    "feeAdjustedMarketValue": 12.75,
+    "feeAdjustedNote": "85% of market value (after fees)",
+    "marketValueDate": "2025-12-20",
+    "holdingPeriodDays": 0,
+    "unrealizedGainLoss": 10.00,
+    "roiPercentage": 200.00,
+    "feeAdjustedRoiPercentage": 155.00,
+    "annualizedRoi": 200.00,
+    "annualizedRoiNote": "Based on 350-day holding period from Jan 1",
+    "feeAdjustedAnnualizedRoi": 155.00,
+    "feeAdjustedAnnualizedRoiNote": "Annualized return after 15% fees"
+  }
+}

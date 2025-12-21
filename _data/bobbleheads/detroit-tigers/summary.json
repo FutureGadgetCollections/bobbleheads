@@ -1,0 +1,47 @@
+{
+  "lastUpdated": "2025-12-15",
+  "positionAnalysis": [
+    {
+      "dateChecked": "2025-12-15",
+      "costBasis": 60.00,
+      "value": 95.00,
+      "realizedProfits": 0.00,
+      "roi": 58.33,
+      "postFeeRoi": 34.58
+    }
+  ],
+  "currentInventory": [
+    {
+      "item": "2025 Snoopy Bobblehead",
+      "quantity": 1,
+      "condition": "NIB",
+      "avgPurchaseCost": 38.00,
+      "marketValue": 60.00,
+      "link": "/bobbleheads/collection/detroit-tigers/snoopy-bobblehead/"
+    },
+    {
+      "item": "2023 Riley Green Bobblehead",
+      "quantity": 1,
+      "condition": "NIB",
+      "avgPurchaseCost": 22.00,
+      "marketValue": 35.00,
+      "link": "/bobbleheads/collection/detroit-tigers/riley-green-bobblehead/"
+    }
+  ],
+  "purchaseHistory": [
+    {
+      "link": "/bobbleheads/purchases/snoopy-bobblehead-buyout/",
+      "date": "2025-12-13",
+      "item": "2025 Snoopy Bobblehead",
+      "quantity": 1,
+      "purchasePrice": 38.00
+    },
+    {
+      "link": "/bobbleheads/purchases/snoopy-bobblehead-buyout/",
+      "date": "2025-12-13",
+      "item": "2023 Riley Green Bobblehead",
+      "quantity": 1,
+      "purchasePrice": 22.00
+    }
+  ]
+}

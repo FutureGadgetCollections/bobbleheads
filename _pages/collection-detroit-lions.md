@@ -6,6 +6,8 @@ author_profile: false
 classes: wide
 ---
 
+![Detroit Lions]({{ site.baseurl }}/assets/images/themes/lions.jpg)
+
 ## Collection Summary
 
 {% assign lions_posts = site.categories.detroit-lions %}

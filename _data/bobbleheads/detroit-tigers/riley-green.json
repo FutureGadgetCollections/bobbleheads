@@ -1,0 +1,96 @@
+{
+  "item": {
+    "name": "2023 Riley Green Bobblehead - Stadium Giveaway",
+    "year": 2023,
+    "player": "Riley Green",
+    "itemType": "Stadium Giveaway",
+    "distribution": "Given to the first 15,000 fans in attendance (typical for Tigers giveaways)",
+    "team": "Detroit Tigers"
+  },
+  "marketResearch": {
+    "ebayMarketAnalysis": [
+      {
+        "dateChecked": "2025-12-15",
+        "historicalDataLink": "https://www.ebay.com/sh/research?marketplace=EBAY-US&keywords=2023+Riley+Green+Tigers+Bobblehead+NIB&dayRange=1095",
+        "lastSoldPrice": 45.00,
+        "marketValue": 35.00,
+        "historicalSellThrough": "3 sales (Spring 2025)",
+        "activeListingsLink": "https://www.ebay.com/sch/i.html?_nkw=2023+Riley+Green+Tigers+Bobblehead+NIB&_sacat=0",
+        "currentAskingPrice": 35.00,
+        "numberOfActiveListings": 1
+      }
+    ],
+    "salesPerformance": [
+      {
+        "date": "2025-12-15",
+        "lastSoldPrice": 45.00,
+        "sellThrough": "3 sales (Spring 2025)"
+      }
+    ],
+    "currentListings": [
+      {
+        "date": "2025-12-15",
+        "totalActiveListings": 1,
+        "listingsWithin20PercentOfLastSold": 0,
+        "avgAskingPriceWithin20Percent": 35.00
+      }
+    ],
+    "observations": [
+      "2023 item has had 2+ years since distribution",
+      "Riley Green is a key player in the Tigers' rebuild",
+      "Limited sales activity with only 3 transactions in Spring 2025",
+      "Market has declined from $45 to $35, reflecting lower demand",
+      "Young star potential - value could increase with player performance and team success",
+      "Limited to first 15,000 attendees",
+      "NIB (New in Box) condition is critical for maintaining value",
+      "Future performance may correlate with Green's MLB career success and team competitiveness",
+      "Low liquidity with minimal active listings suggests niche collector market"
+    ]
+  },
+  "purchaseHistory": [
+    {
+      "datePurchased": "2025-12-13",
+      "purchasePrice": 22.00,
+      "source": "Facebook Marketplace",
+      "quantity": 1,
+      "condition": "NIB",
+      "status": "Inventory",
+      "notes": "Part of Snoopy Bobblehead Buyout"
+    }
+  ],
+  "positionAnalysis": [
+    {
+      "dateChecked": "2025-12-15",
+      "costBasis": 22.00,
+      "value": 35.00,
+      "realizedProfits": 0.00,
+      "roi": 59.09,
+      "postFeeRoi": 35.23
+    }
+  ],
+  "currentInventory": [
+    {
+      "date": "2025-12-15",
+      "quantity": 1,
+      "condition": "NIB",
+      "currentValuePerUnit": 35.00
+    }
+  ],
+  "saleHistory": [],
+  "roiAnalysis": {
+    "totalPurchaseAmount": 22.00,
+    "purchaseDate": "2025-12-13",
+    "currentMarketValue": 35.00,
+    "feeAdjustedMarketValue": 29.75,
+    "feeAdjustedNote": "85% of market value (after fees)",
+    "marketValueDate": "2025-12-15",
+    "holdingPeriodDays": 2,
+    "unrealizedGainLoss": 13.00,
+    "roiPercentage": 59.09,
+    "feeAdjustedRoiPercentage": 35.23,
+    "annualizedRoi": 61.83,
+    "annualizedRoiNote": "Based on 349-day holding period from Jan 1",
+    "feeAdjustedAnnualizedRoi": 36.73,
+    "feeAdjustedAnnualizedRoiNote": "Annualized return after 15% fees"
+  }
+}

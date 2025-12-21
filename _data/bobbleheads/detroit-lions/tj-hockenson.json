@@ -1,0 +1,99 @@
+{
+  "item": {
+    "name": "2022 T.J. Hockenson Bobblehead - Stadium Giveaway",
+    "year": 2022,
+    "player": "T.J. Hockenson",
+    "playerNumber": 88,
+    "itemType": "Stadium Giveaway",
+    "distribution": "Given to the first 25,000 fans in attendance",
+    "team": "Detroit Lions",
+    "historicalNote": "T.J. Hockenson was traded from the Detroit Lions to the Minnesota Vikings on November 1, 2022, partway through the season in which this bobblehead was distributed."
+  },
+  "marketResearch": {
+    "ebayMarketAnalysis": [
+      {
+        "dateChecked": "2025-12-16",
+        "historicalDataLink": "https://www.ebay.com/sh/research?marketplace=EBAY-US&keywords=2022+TJ+Hockenson+Lions+Bobblehead+NIB&dayRange=1095",
+        "lastSoldPrice": null,
+        "marketValue": 20.00,
+        "historicalSellThrough": "0 sales (3+ years)",
+        "activeListingsLink": "https://www.ebay.com/sch/i.html?_nkw=2022+TJ+Hockenson+Lions+Bobblehead+NIB&_sacat=0",
+        "currentAskingPrice": 50.00,
+        "currentAskingPriceNote": "",
+        "numberOfActiveListings": 1,
+        "numberOfActiveListingsNote": "NIB"
+      }
+    ],
+    "salesPerformance": [
+      {
+        "date": "2025-12-16",
+        "lastSoldPrice": null,
+        "sellThrough": "0 sales (3+ years)"
+      }
+    ],
+    "currentListings": [
+      {
+        "date": "2025-12-16",
+        "totalActiveListings": 1,
+        "listingsWithin20PercentOfLastSold": null,
+        "avgAskingPriceWithin20Percent": 20.00,
+        "avgAskingPriceNote": "estimated"
+      }
+    ],
+    "observations": [
+      "Older collectible from 2022 season",
+      "Unique Factor: Hockenson was traded to Vikings in November 2022, making this a historical piece",
+      "May have collector interest as a 'former player' item",
+      "Generally lower value compared to current roster stars",
+      "Could appreciate if Hockenson has a Hall of Fame career",
+      "NIB (New in Box) condition is critical for maintaining value",
+      "Trade to division rival (Vikings) adds interesting storyline to collectible"
+    ]
+  },
+  "purchaseHistory": [
+    {
+      "datePurchased": "2025-12-11",
+      "purchasePrice": 16.00,
+      "source": "Facebook Marketplace",
+      "quantity": 1,
+      "condition": "New in Box (NIB)",
+      "status": "Inventory",
+      "notes": ""
+    }
+  ],
+  "positionAnalysis": [
+    {
+      "dateChecked": "2025-12-16",
+      "costBasis": 16.00,
+      "value": 20.00,
+      "realizedProfits": 0.00,
+      "roi": 25.00,
+      "postFeeRoi": 6.25
+    }
+  ],
+  "currentInventory": [
+    {
+      "date": "2025-12-16",
+      "quantity": 1,
+      "condition": "New in Box (NIB)",
+      "currentValuePerUnit": 20.00
+    }
+  ],
+  "saleHistory": [],
+  "roiAnalysis": {
+    "totalPurchaseAmount": 16.00,
+    "purchaseDate": "2025-12-11",
+    "currentMarketValue": 20.00,
+    "feeAdjustedMarketValue": 17.00,
+    "feeAdjustedNote": "85% of market value (after fees)",
+    "marketValueDate": "2025-12-16",
+    "holdingPeriodDays": 5,
+    "unrealizedGainLoss": 4.00,
+    "roiPercentage": 25.00,
+    "feeAdjustedRoiPercentage": 6.25,
+    "annualizedRoi": 25.99,
+    "annualizedRoiNote": "Based on 350-day holding period from Jan 1",
+    "feeAdjustedAnnualizedRoi": 6.48,
+    "feeAdjustedAnnualizedRoiNote": "Annualized return after 15% fees"
+  }
+}

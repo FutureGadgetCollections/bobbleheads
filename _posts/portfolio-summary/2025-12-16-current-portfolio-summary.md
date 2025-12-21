@@ -9,36 +9,22 @@ tags:
   - analysis
 excerpt: "Overall portfolio performance and valuation summary"
 permalink: /portfolio-summary/current/
+classes: wide
 ---
 
 ## Portfolio Overview
 
+{% assign portfolio_data = site.data.portfolio.summary %}
+
 ### Portfolio Metrics
 
-Dated snapshots of portfolio performance over time.
-
-| Date | Cost Basis | Market Value | Fire Sale Value (85%) | Current ROI | Fee-Adjusted ROI |
-|------|------------|--------------|----------------------|-------------|------------------|
-| 2025-12-16 | $312.00 | $411.00 | $349.35 | 31.73% | 11.97% |
-| | | | | | |
-| | | | | | |
-| | | | | | |
+| Date | Cost Basis | Market Value | Firesale Value (85%) | ROI | Fee Adjusted ROI | YTD Realized Profits |
+|------|------------|--------------|----------------------|-----|------------------|----------------------|
+{%- for metric in portfolio_data.portfolioMetrics %}
+| {{ metric.date }} | ${{ metric.costBasis }} | ${{ metric.marketValue }} | ${{ metric.firesaleValue }} | {{ metric.roi }}% | {{ metric.feeAdjustedRoi }}% | ${{ metric.ytdRealizedProfits }} |
+{%- endfor %}
 
 ---
 
-## Realized Profits
-
-Track profits from actual sales and captures.
-
-| Date Captured | Realized Profit Since Last Capture |
-|---------------|-----------------------------------|
-| 2025-12-16 | $0.00 |
-| | |
-| | |
-| | |
-| **TOTAL REALIZED** | **$0.00** |
-
----
-
-[View Detailed Collection Summaries](/collection/)
-[View Purchase History](/purchases/)
+[View Detailed Collection Summaries](/bobbleheads/collection/)
+[View Purchase History](/bobbleheads/purchases/)

@@ -1,0 +1,94 @@
+{
+  "item": {
+    "name": "2019 Andre Drummond Bobblehead - Stadium Giveaway",
+    "year": 2019,
+    "player": "Andre Drummond (#0)",
+    "itemType": "Stadium Giveaway",
+    "distribution": "Given to early arriving fans",
+    "team": "Detroit Pistons"
+  },
+  "marketResearch": {
+    "ebayMarketAnalysis": [
+      {
+        "dateChecked": "2025-12-20",
+        "historicalDataLink": "https://www.ebay.com/sh/research?marketplace=EBAY-US&keywords=2019+Andre+Drummond+Pistons+Bobblehead&dayRange=1095",
+        "lastSoldPrice": null,
+        "marketValue": 12.00,
+        "historicalSellThrough": "Limited data",
+        "activeListingsLink": "https://www.ebay.com/sch/i.html?_nkw=2019+Andre+Drummond+Pistons+Bobblehead&_sacat=0",
+        "currentAskingPrice": 12.00,
+        "currentAskingPriceNote": "estimated",
+        "numberOfActiveListings": "Limited listings"
+      }
+    ],
+    "salesPerformance": [
+      {
+        "date": "2025-12-20",
+        "lastSoldPrice": null,
+        "sellThrough": "Limited data"
+      }
+    ],
+    "currentListings": [
+      {
+        "date": "2025-12-20",
+        "totalActiveListings": "Limited",
+        "listingsWithin20PercentOfLastSold": null,
+        "avgAskingPriceWithin20Percent": 12.00,
+        "avgAskingPriceNote": "estimated for used condition"
+      }
+    ],
+    "observations": [
+      "2019 modern era Pistons bobblehead",
+      "Andre Drummond was Pistons center from 2012-2020",
+      "2-time NBA rebounding leader",
+      "More recent item - 6 years old",
+      "Used condition affects value"
+    ]
+  },
+  "purchaseHistory": [
+    {
+      "datePurchased": "2025-12-20",
+      "purchasePrice": 5.00,
+      "source": "Flint Used Collection Buyout",
+      "quantity": 1,
+      "condition": "Used",
+      "status": "Inventory",
+      "notes": "Part of 16-item bulk purchase"
+    }
+  ],
+  "positionAnalysis": [
+    {
+      "dateChecked": "2025-12-20",
+      "costBasis": 5.00,
+      "value": 12.00,
+      "realizedProfits": 0.00,
+      "roi": 140.00,
+      "postFeeRoi": 104.00
+    }
+  ],
+  "currentInventory": [
+    {
+      "date": "2025-12-20",
+      "quantity": 1,
+      "condition": "Used",
+      "currentValuePerUnit": 12.00
+    }
+  ],
+  "saleHistory": [],
+  "roiAnalysis": {
+    "totalPurchaseAmount": 5.00,
+    "purchaseDate": "2025-12-20",
+    "currentMarketValue": 12.00,
+    "feeAdjustedMarketValue": 10.20,
+    "feeAdjustedNote": "85% of market value (after fees)",
+    "marketValueDate": "2025-12-20",
+    "holdingPeriodDays": 0,
+    "unrealizedGainLoss": 7.00,
+    "roiPercentage": 140.00,
+    "feeAdjustedRoiPercentage": 104.00,
+    "annualizedRoi": 140.00,
+    "annualizedRoiNote": "Based on 350-day holding period from Jan 1",
+    "feeAdjustedAnnualizedRoi": 104.00,
+    "feeAdjustedAnnualizedRoiNote": "Annualized return after 15% fees"
+  }
+}

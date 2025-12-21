@@ -1,0 +1,101 @@
+{
+  "purchase": {
+    "title": "Season Ticket Holder Buyout",
+    "purchaseDate": "2025-12-11",
+    "totalAmount": 250.00,
+    "source": "Facebook Marketplace",
+    "sellerProfile": "Lions season ticket holder looking to liquidate giveaway items"
+  },
+  "itemsAcquired": [
+    {
+      "item": "Jahmyr Gibbs Bobblehead",
+      "year": 2024,
+      "type": "Stadium Giveaway",
+      "purchasePrice": 60.00,
+      "marketValue": 75.00
+    },
+    {
+      "item": "Aidan Hutchinson Bobblehead",
+      "year": 2023,
+      "type": "Stadium Giveaway",
+      "purchasePrice": 55.00,
+      "marketValue": 70.00
+    },
+    {
+      "item": "David Montgomery Bobblehead",
+      "year": 2024,
+      "type": "Stadium Giveaway",
+      "purchasePrice": 52.00,
+      "marketValue": 65.00
+    },
+    {
+      "item": "T.J. Hockenson Bobblehead",
+      "year": 2022,
+      "type": "Stadium Giveaway",
+      "purchasePrice": 16.00,
+      "marketValue": 20.00
+    },
+    {
+      "item": "Calvin Johnson Bobblehead",
+      "year": 2024,
+      "type": "Stadium Giveaway",
+      "purchasePrice": 30.00,
+      "marketValue": 38.00
+    },
+    {
+      "item": "Brad Holmes Bobblehead",
+      "year": 2024,
+      "type": "Season Ticket Holder Gift",
+      "purchasePrice": 27.00,
+      "marketValue": 33.00
+    },
+    {
+      "item": "Detroit Collector Coin",
+      "year": 2023,
+      "type": "Season Ticket Holder Gift",
+      "purchasePrice": 12.00,
+      "marketValue": 15.00
+    }
+  ],
+  "purchaseAnalysis": {
+    "totalMarketValue": 316.00,
+    "purchasePrice": 250.00,
+    "discountFromMarket": 20.9,
+    "effectivePurchasePrice": 80,
+    "notes": "Individual item prices were negotiated as part of the bulk purchase. Total paid was $250.00."
+  },
+  "strategy": {
+    "sellerProfile": [
+      "Attended games for the experience, not the collectibles",
+      "Accumulated items passively over multiple seasons as a season ticket holder",
+      "Had no emotional attachment to the promotional items",
+      "Simply wanted to clear closet space and liquidate quickly",
+      "Wasn't a collector, so didn't know or care about maximizing value"
+    ],
+    "strategicAdvantages": [
+      "Bulk Purchase Leverage: Buying in bulk allowed for better negotiation on per-unit pricing",
+      "Seller preferred single transaction over listing items individually",
+      "Reduced the seller's time and effort compared to eBay/marketplace sales",
+      "Information Asymmetry: Extensive pre-purchase research gave accurate market values",
+      "Seller didn't invest time in researching individual item values",
+      "Quality Assurance: All items new in box (NIB) - critical for collectible value",
+      "Verified condition before purchase",
+      "Season ticket holder storage ensured proper care",
+      "No risk of counterfeit items from original recipient",
+      "Portfolio Diversification: Acquired multiple years (2022-2024) in single transaction"
+    ]
+  },
+  "transactionDetails": {
+    "location": "Local Facebook Marketplace meetup",
+    "inspection": "All items verified as new in box before payment",
+    "paymentMethod": "Cash",
+    "negotiation": "Started at asking price, negotiated to $250 for bulk purchase"
+  },
+  "lessonsLearned": [
+    "Season ticket holders are ideal sellers - They accumulate items naturally but often don't collect them",
+    "Bulk purchases create negotiation leverage - Sellers value convenience of single transaction",
+    "Research is critical - Knowing true market values enables confident negotiation",
+    "NIB condition is non-negotiable - Condition dramatically affects collectible value",
+    "80% of market is a strong entry point - Provides margin of safety and profit potential"
+  ]
+}

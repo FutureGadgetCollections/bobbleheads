@@ -1,0 +1,94 @@
+{
+  "item": {
+    "name": "Rip Hamilton Bobblehead - Stadium Giveaway",
+    "year": null,
+    "player": "Rip Hamilton (#32)",
+    "itemType": "Stadium Giveaway",
+    "distribution": "Given to early arriving fans",
+    "team": "Detroit Pistons"
+  },
+  "marketResearch": {
+    "ebayMarketAnalysis": [
+      {
+        "dateChecked": "2025-12-20",
+        "historicalDataLink": "https://www.ebay.com/sh/research?marketplace=EBAY-US&keywords=Rip+Hamilton+Pistons+Bobblehead&dayRange=1095",
+        "lastSoldPrice": null,
+        "marketValue": 25.00,
+        "historicalSellThrough": "Limited data",
+        "activeListingsLink": "https://www.ebay.com/sch/i.html?_nkw=Rip+Hamilton+Pistons+Bobblehead&_sacat=0",
+        "currentAskingPrice": 25.00,
+        "currentAskingPriceNote": "estimated",
+        "numberOfActiveListings": "Limited listings"
+      }
+    ],
+    "salesPerformance": [
+      {
+        "date": "2025-12-20",
+        "lastSoldPrice": null,
+        "sellThrough": "Limited data"
+      }
+    ],
+    "currentListings": [
+      {
+        "date": "2025-12-20",
+        "totalActiveListings": "Limited",
+        "listingsWithin20PercentOfLastSold": null,
+        "avgAskingPriceWithin20Percent": 25.00,
+        "avgAskingPriceNote": "estimated for used condition"
+      }
+    ],
+    "observations": [
+      "Championship-era Pistons bobblehead",
+      "Rip Hamilton was key member of 2004 championship team",
+      "Known for his signature face mask",
+      "Popular and iconic Pistons player",
+      "Used condition but high collectibility due to championship connection"
+    ]
+  },
+  "purchaseHistory": [
+    {
+      "datePurchased": "2025-12-20",
+      "purchasePrice": 5.00,
+      "source": "Flint Used Collection Buyout",
+      "quantity": 1,
+      "condition": "Used",
+      "status": "Inventory",
+      "notes": "Part of 16-item bulk purchase"
+    }
+  ],
+  "positionAnalysis": [
+    {
+      "dateChecked": "2025-12-20",
+      "costBasis": 5.00,
+      "value": 25.00,
+      "realizedProfits": 0.00,
+      "roi": 400.00,
+      "postFeeRoi": 325.00
+    }
+  ],
+  "currentInventory": [
+    {
+      "date": "2025-12-20",
+      "quantity": 1,
+      "condition": "Used",
+      "currentValuePerUnit": 25.00
+    }
+  ],
+  "saleHistory": [],
+  "roiAnalysis": {
+    "totalPurchaseAmount": 5.00,
+    "purchaseDate": "2025-12-20",
+    "currentMarketValue": 25.00,
+    "feeAdjustedMarketValue": 21.25,
+    "feeAdjustedNote": "85% of market value (after fees)",
+    "marketValueDate": "2025-12-20",
+    "holdingPeriodDays": 0,
+    "unrealizedGainLoss": 20.00,
+    "roiPercentage": 400.00,
+    "feeAdjustedRoiPercentage": 325.00,
+    "annualizedRoi": 400.00,
+    "annualizedRoiNote": "Based on 350-day holding period from Jan 1",
+    "feeAdjustedAnnualizedRoi": 325.00,
+    "feeAdjustedAnnualizedRoiNote": "Annualized return after 15% fees"
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "item": {
+    "name": "2024 Brad Holmes Bobblehead - Season Ticket Holder Gift",
+    "year": 2024,
+    "subject": "Brad Holmes (General Manager)",
+    "itemType": "Season Ticket Holder Gift",
+    "distribution": "Exclusive gift for Detroit Lions season ticket holders",
+    "team": "Detroit Lions"
+  },
+  "marketResearch": {
+    "ebayMarketAnalysis": [
+      {
+        "dateChecked": "2025-12-16",
+        "historicalDataLink": "https://www.ebay.com/sh/research?marketplace=EBAY-US&keywords=2024+Brad+Holmes+Bobblehead+NIB&dayRange=1095",
+        "lastSoldPrice": null,
+        "marketValue": 33.00,
+        "historicalSellThrough": "Limited data",
+        "activeListingsLink": "https://www.ebay.com/sch/i.html?_nkw=2024+Brad+Holmes+Bobblehead+NIB&_sacat=0",
+        "currentAskingPrice": 33.00,
+        "currentAskingPriceNote": "estimated",
+        "numberOfActiveListings": "Limited listings"
+      }
+    ],
+    "salesPerformance": [
+      {
+        "date": "2025-12-16",
+        "lastSoldPrice": null,
+        "sellThrough": "Limited data"
+      }
+    ],
+    "currentListings": [
+      {
+        "date": "2025-12-16",
+        "totalActiveListings": "Limited",
+        "listingsWithin20PercentOfLastSold": null,
+        "avgAskingPriceWithin20Percent": 33.00,
+        "avgAskingPriceNote": "estimated"
+      }
+    ],
+    "observations": [
+      "Unique item celebrating front office leadership rather than a player",
+      "Brad Holmes has been key to the Lions' resurgence and competitive rebuild",
+      "Season ticket holder exclusivity adds to collectibility",
+      "As the Lions continue to succeed, Holmes' legacy items may appreciate",
+      "NIB (New in Box) condition is critical for maintaining value",
+      "Front office collectibles are rarer than player items, creating niche appeal"
+    ]
+  },
+  "purchaseHistory": [
+    {
+      "datePurchased": "2025-12-11",
+      "purchasePrice": 27.00,
+      "source": "Facebook Marketplace",
+      "quantity": 1,
+      "condition": "New in Box (NIB)",
+      "status": "Inventory",
+      "notes": ""
+    }
+  ],
+  "positionAnalysis": [
+    {
+      "dateChecked": "2025-12-16",
+      "costBasis": 27.00,
+      "value": 33.00,
+      "realizedProfits": 0.00,
+      "roi": 22.22,
+      "postFeeRoi": 3.89
+    }
+  ],
+  "currentInventory": [
+    {
+      "date": "2025-12-16",
+      "quantity": 1,
+      "condition": "New in Box (NIB)",
+      "currentValuePerUnit": 33.00
+    }
+  ],
+  "saleHistory": [],
+  "roiAnalysis": {
+    "totalPurchaseAmount": 27.00,
+    "purchaseDate": "2025-12-11",
+    "currentMarketValue": 33.00,
+    "feeAdjustedMarketValue": 28.05,
+    "feeAdjustedNote": "85% of market value (after fees)",
+    "marketValueDate": "2025-12-16",
+    "holdingPeriodDays": 5,
+    "unrealizedGainLoss": 6.00,
+    "roiPercentage": 22.22,
+    "feeAdjustedRoiPercentage": 3.89,
+    "annualizedRoi": 23.10,
+    "annualizedRoiNote": "Based on 350-day holding period from Jan 1",
+    "feeAdjustedAnnualizedRoi": 4.03,
+    "feeAdjustedAnnualizedRoiNote": "Annualized return after 15% fees"
+  }
+}

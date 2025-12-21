@@ -1,0 +1,148 @@
+{
+  "purchaseInfo": {
+    "invoiceId": "flint-used-collection-buyout",
+    "date": "2025-12-20",
+    "source": "Flint Used Collection Buyout",
+    "totalAmount": 80.00,
+    "notes": "Bulk purchase of used Detroit sports collectibles from Flint collector"
+  },
+  "items": [
+    {
+      "team": "Detroit Pistons",
+      "item": "2006 Chris Webber Bobblehead",
+      "itemType": "Stadium Giveaway",
+      "quantity": 1,
+      "price": 5.00,
+      "condition": "Used"
+    },
+    {
+      "team": "Detroit Pistons",
+      "item": "2006 Tayshaun Prince Bobblehead",
+      "itemType": "Stadium Giveaway",
+      "quantity": 1,
+      "price": 5.00,
+      "condition": "Used"
+    },
+    {
+      "team": "Detroit Pistons",
+      "item": "2005 Ben Wallace Bobblehead",
+      "itemType": "Stadium Giveaway",
+      "quantity": 1,
+      "price": 5.00,
+      "condition": "Used"
+    },
+    {
+      "team": "Detroit Pistons",
+      "item": "2004 Chauncey Billups Bobblehead",
+      "itemType": "Stadium Giveaway",
+      "quantity": 1,
+      "price": 5.00,
+      "condition": "Used"
+    },
+    {
+      "team": "Detroit Pistons",
+      "item": "2019 Andre Drummond Bobblehead",
+      "itemType": "Stadium Giveaway",
+      "quantity": 1,
+      "price": 5.00,
+      "condition": "Used"
+    },
+    {
+      "team": "Detroit Pistons",
+      "item": "2019 Reggie Jackson Bobblehead",
+      "itemType": "Stadium Giveaway",
+      "quantity": 1,
+      "price": 5.00,
+      "condition": "Used"
+    },
+    {
+      "team": "Detroit Pistons",
+      "item": "Rip Hamilton Bobblehead",
+      "itemType": "Stadium Giveaway",
+      "quantity": 1,
+      "price": 5.00,
+      "condition": "Used"
+    },
+    {
+      "team": "Detroit Pistons",
+      "item": "Rasheed Wallace Bobblehead",
+      "itemType": "Stadium Giveaway",
+      "quantity": 1,
+      "price": 5.00,
+      "condition": "Used"
+    },
+    {
+      "team": "Detroit Pistons",
+      "item": "Tayshaun Prince Plaque",
+      "itemType": "Unknown",
+      "quantity": 1,
+      "price": 5.00,
+      "condition": "Used",
+      "notes": "Not confirmed if stadium giveaway"
+    },
+    {
+      "team": "Detroit Tigers",
+      "item": "Austin Jackson Bobblehead",
+      "itemType": "Regular Bobblehead",
+      "quantity": 1,
+      "price": 5.00,
+      "condition": "Used"
+    },
+    {
+      "team": "Detroit Tigers",
+      "item": "2021 Niko Goodrum Bobblehead",
+      "itemType": "Stadium Giveaway",
+      "quantity": 1,
+      "price": 5.00,
+      "condition": "Used"
+    },
+    {
+      "team": "Detroit Lions",
+      "item": "2017 Matthew Stafford Bobblehead",
+      "itemType": "Stadium Giveaway",
+      "quantity": 1,
+      "price": 5.00,
+      "condition": "Used"
+    },
+    {
+      "team": "Detroit Lions",
+      "item": "2018 Darius Slay Bobblehead",
+      "itemType": "Stadium Giveaway",
+      "quantity": 1,
+      "price": 5.00,
+      "condition": "Used"
+    },
+    {
+      "team": "Detroit Lions",
+      "item": "2017 George Blaha Bobblehead",
+      "itemType": "Stadium Giveaway",
+      "quantity": 1,
+      "price": 5.00,
+      "condition": "Used"
+    },
+    {
+      "team": "University of Michigan",
+      "item": "Coach John Beilein Bobblehead",
+      "itemType": "Bobblehead",
+      "quantity": 1,
+      "price": 5.00,
+      "condition": "Used"
+    },
+    {
+      "team": "University of Michigan",
+      "item": "Juwan Howard Bobblehead",
+      "itemType": "Bobblehead",
+      "quantity": 1,
+      "price": 5.00,
+      "condition": "Used"
+    }
+  ],
+  "summary": {
+    "totalItems": 16,
+    "pistons": 9,
+    "tigers": 2,
+    "lions": 3,
+    "uofm": 2,
+    "totalCost": 80.00
+  }
+}

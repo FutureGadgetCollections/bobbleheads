@@ -1,0 +1,94 @@
+{
+  "item": {
+    "name": "2023 Aidan Hutchinson Bobblehead - Stadium Giveaway",
+    "year": 2023,
+    "player": "Aidan Hutchinson",
+    "playerNumber": 97,
+    "itemType": "Stadium Giveaway",
+    "distribution": "Given to the first 25,000 fans in attendance",
+    "team": "Detroit Lions"
+  },
+  "marketResearch": {
+    "ebayMarketAnalysis": [
+      {
+        "dateChecked": "2025-12-16",
+        "historicalDataLink": "https://www.ebay.com/sh/research?marketplace=EBAY-US&keywords=2023+Aidan+Hutchinson+Bobblehead+NIB&dayRange=1095",
+        "lastSoldPrice": 60.00,
+        "marketValue": 70.00,
+        "historicalSellThrough": "1 sale/year",
+        "activeListingsLink": "https://www.ebay.com/sch/i.html?_nkw=2023+Aidan+Hutchinson+Bobblehead+NIB&_sacat=0",
+        "currentAskingPrice": 70.00,
+        "currentAskingPriceNote": "avg of top 2",
+        "numberOfActiveListings": 9
+      }
+    ],
+    "salesPerformance": [
+      {
+        "date": "2025-12-16",
+        "lastSoldPrice": 60.00,
+        "sellThrough": "1 sale/year"
+      }
+    ],
+    "currentListings": [
+      {
+        "date": "2025-12-16",
+        "totalActiveListings": 9,
+        "listingsWithin20PercentOfLastSold": 2,
+        "avgAskingPriceWithin20Percent": 70.00
+      }
+    ],
+    "observations": [
+      "2023 item has had more time to appreciate than 2024 releases",
+      "Aidan Hutchinson is one of the Lions' most popular players",
+      "As a defensive star, his collectibles may have strong long-term appeal",
+      "NIB (New in Box) condition is critical for maintaining value",
+      "Future performance may correlate with Hutchinson's NFL career success"
+    ]
+  },
+  "purchaseHistory": [
+    {
+      "datePurchased": "2025-12-11",
+      "purchasePrice": 55.00,
+      "source": "Facebook Marketplace",
+      "quantity": 1,
+      "condition": "New in Box (NIB)",
+      "status": "Inventory",
+      "notes": ""
+    }
+  ],
+  "positionAnalysis": [
+    {
+      "dateChecked": "2025-12-16",
+      "costBasis": 55.00,
+      "value": 70.00,
+      "realizedProfits": 0.00,
+      "roi": 27.27,
+      "postFeeRoi": 8.18
+    }
+  ],
+  "currentInventory": [
+    {
+      "date": "2025-12-16",
+      "quantity": 1,
+      "condition": "New in Box (NIB)",
+      "currentValuePerUnit": 70.00
+    }
+  ],
+  "saleHistory": [],
+  "roiAnalysis": {
+    "totalPurchaseAmount": 55.00,
+    "purchaseDate": "2025-12-11",
+    "currentMarketValue": 70.00,
+    "feeAdjustedMarketValue": 59.50,
+    "feeAdjustedNote": "85% of market value (after fees)",
+    "marketValueDate": "2025-12-16",
+    "holdingPeriodDays": 5,
+    "unrealizedGainLoss": 15.00,
+    "roiPercentage": 27.27,
+    "feeAdjustedRoiPercentage": 8.18,
+    "annualizedRoi": 28.41,
+    "annualizedRoiNote": "Based on 350-day holding period from Jan 1",
+    "feeAdjustedAnnualizedRoi": 8.48,
+    "feeAdjustedAnnualizedRoiNote": "Annualized return after 15% fees"
+  }
+}

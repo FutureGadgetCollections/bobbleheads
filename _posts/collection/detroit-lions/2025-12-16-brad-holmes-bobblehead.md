@@ -12,17 +12,20 @@ tags:
   - bobblehead
 excerpt: "Detailed analysis and market research for the 2024 Brad Holmes season ticket holder gift bobblehead"
 permalink: /collection/detroit-lions/brad-holmes-bobblehead/
+classes: wide
 ---
 
 ## 2024 Brad Holmes Bobblehead
 
 ### Overview
 
-**Year:** 2024
-**Subject:** Brad Holmes (General Manager)
-**Item Type:** Season Ticket Holder Gift
-**Distribution:** Exclusive gift for Detroit Lions season ticket holders
-**Team:** Detroit Lions
+| Attribute | Details |
+|-----------|---------|
+| Year | 2024 |
+| Subject | Brad Holmes (General Manager) |
+| Item Type | Season Ticket Holder Gift |
+| Distribution | Exclusive gift for Detroit Lions season ticket holders |
+| Team | Detroit Lions |
 
 This bobblehead was distributed as an exclusive gift to Detroit Lions season ticket holders during the 2024 season. Brad Holmes, the Lions' General Manager since 2021, has been instrumental in rebuilding the team into a competitive force. As a front office executive bobblehead, this is a unique collectible that celebrates the leadership behind the team's success.
 
@@ -36,67 +39,69 @@ This bobblehead was distributed as an exclusive gift to Detroit Lions season tic
 
 ---
 
+{% assign item_data = site.data.bobbleheads.detroit-lions.brad-holmes %}
+
+## Position Analysis
+
+| Date Checked | Cost Basis | Value | Realized Profits | ROI | Post Fee ROI |
+|--------------|------------|-------|------------------|-----|--------------|
+{%- for position in item_data.positionAnalysis %}
+| {{ position.dateChecked }} | ${{ position.costBasis }} | ${{ position.value }} | ${{ position.realizedProfits }} | {{ position.roi }}% | {{ position.postFeeRoi }}% |
+{%- endfor %}
+
+---
+
+## Current Inventory
+
+| Date | Quantity | Condition | Current Value Per Unit |
+|------|----------|-----------|------------------------|
+{%- for inventory in item_data.currentInventory %}
+| {{ inventory.date }} | {{ inventory.quantity }} | {{ inventory.condition }} | ${{ inventory.currentValuePerUnit }} |
+{%- endfor %}
+{%- if item_data.currentInventory.size == 0 %}
+| | | | *No items in inventory* |
+{%- endif %}
+
+---
+
 ## Market Research
+
+**eBay Research Links:**
+- [Historical Sales Data]({{ item_data.marketResearch.ebayMarketAnalysis[0].historicalDataLink }})
+- [Current Active Listings]({{ item_data.marketResearch.ebayMarketAnalysis[0].activeListingsLink }})
 
 ### eBay Market Analysis
 
-| Date Checked | Historical Data Link | Last Sold Price | Market Value | Historical Sell Through | Active Listings Link | Current Asking Price | Number of Active Listings |
-|--------------|---------------------|-----------------|--------------|------------------------|---------------------|---------------------|--------------------------|
-| 2025-12-16 | [eBay Historical Data](https://www.ebay.com/sh/research?marketplace=EBAY-US&keywords=2024+Brad+Holmes+Bobblehead+NIB&dayRange=1095) | N/A | $33.00 | Limited data | [Active Listings](https://www.ebay.com/sch/i.html?_nkw=2024+Brad+Holmes+Bobblehead+NIB&_sacat=0) | $33.00 (estimated) | Limited listings |
-| | | | | | | | |
-| | | | | | | | |
-
-### Market Insights
-
-#### Sales Performance
-
-| Date | Last Sold Price (Estimated Value) | Sell Through |
-|------|-----------------------------------|--------------|
-| 2025-12-16 | N/A | Limited data |
-
-#### Current Listings
-
-| Date | Total Active Listings | Listings Within 20% of Last Sold | Avg Asking Price (Within 20%) |
-|------|-----------------------|----------------------------------|-------------------------------|
-| 2025-12-16 | Limited | N/A | $33.00 (estimated) |
-
-### Observations
-
-- Unique item celebrating front office leadership rather than a player
-- Brad Holmes has been key to the Lions' resurgence and competitive rebuild
-- Season ticket holder exclusivity adds to collectibility
-- As the Lions continue to succeed, Holmes' legacy items may appreciate
-- NIB (New in Box) condition is critical for maintaining value
-- Front office collectibles are rarer than player items, creating niche appeal
+| Date Checked | Last Sold Price | Market Value | Historical Sell Through | Active Listings | Asking Price |
+|--------------|-----------------|--------------|------------------------|-----------------|--------------|
+{%- for analysis in item_data.marketResearch.ebayMarketAnalysis %}
+| {{ analysis.dateChecked }} | {% if analysis.lastSoldPrice %}${{ analysis.lastSoldPrice }}{% else %}N/A{% endif %} | ${{ analysis.marketValue }} | {{ analysis.historicalSellThrough }} | {{ analysis.numberOfActiveListings }} | ${{ analysis.currentAskingPrice }}{% if analysis.currentAskingPriceNote %} ({{ analysis.currentAskingPriceNote }}){% endif %} |
+{%- endfor %}
 
 ---
 
 ## Purchase History
 
-| Date Purchased | Purchase Price | Source | Quantity | Condition | Notes |
-|----------------|----------------|--------|----------|-----------|-------|
-| 2025-12-11 | $27.00 | Facebook Marketplace | 1 | New in Box (NIB) | |
-| | | | | | |
-| **TOTAL PURCHASED** | **$27.00** | | **1** | | |
+| Date | Price | Source | Quantity | Condition | Status | Notes |
+|------|-------|--------|----------|-----------|--------|-------|
+{%- for purchase in item_data.purchaseHistory %}
+| {{ purchase.datePurchased }} | ${{ purchase.purchasePrice }} | [{{ purchase.source }}](/bobbleheads/purchases/season-ticket-holder-buyout/) | {{ purchase.quantity }} | {{ purchase.condition }} | {{ purchase.status }} | {{ purchase.notes }} |
+{%- endfor %}
+| **TOTAL** | **${{ item_data.roiAnalysis.totalPurchaseAmount }}** | | **{{ item_data.purchaseHistory | size }}** | | | |
 
 ---
 
-## ROI Analysis
+## Sale History
 
-| Metric | Value | Notes |
-|--------|-------|-------|
-| **Total Purchase Amount** | $27.00 | Total invested in this item |
-| **Purchase Date** | 2025-12-11 | Initial purchase date |
-| **Current Market Value** | $33.00 | Estimated current market value |
-| **Fee Adjusted Market Value** | $28.05 | 85% of market value (after fees) |
-| **Market Value Date** | 2025-12-16 | Date of market value assessment |
-| **Holding Period** | 5 days | Days since purchase |
-| **Unrealized Gain/Loss** | +$6.00 | Current value minus purchase price |
-| **ROI Percentage** | +22.22% | (Gain / Purchase Price) × 100 |
-| **Fee Adjusted ROI Percentage** | +3.89% | (Fee Adjusted Value - Purchase) / Purchase × 100 |
-| **Annualized ROI** | +23.10% | Based on 350-day holding period from Jan 1 |
-| **Fee Adjusted Annualized ROI** | +4.03% | Annualized return after 15% fees |
+| Date Sold | Sale Price | Platform | Buyer | Quantity | Profit/Loss | Notes |
+|-----------|------------|----------|-------|----------|-------------|-------|
+{%- for sale in item_data.saleHistory %}
+| {{ sale.dateSold }} | ${{ sale.salePrice }} | {{ sale.platform }} | {{ sale.buyer }} | {{ sale.quantity }} | ${{ sale.profitLoss }} | {{ sale.notes }} |
+{%- endfor %}
+{%- if item_data.saleHistory.size == 0 %}
+| | | | | | | *No sales yet* |
+{%- endif %}
 
 ---
 
-[Back to Detroit Lions Collection Summary](/collection/detroit-lions/collection-summary/)
+[Back to Detroit Lions Collection Summary](/bobbleheads/collection/detroit-lions/collection-summary/)

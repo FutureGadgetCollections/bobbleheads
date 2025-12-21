@@ -1,0 +1,95 @@
+{
+  "item": {
+    "name": "2023 Detroit Lions Collector Coin - Season Ticket Holder Gift",
+    "year": 2023,
+    "subject": "Detroit Lions Collector Coin",
+    "itemType": "Season Ticket Holder Gift",
+    "distribution": "Exclusive gift for Detroit Lions season ticket holders",
+    "team": "Detroit Lions"
+  },
+  "marketResearch": {
+    "ebayMarketAnalysis": [
+      {
+        "dateChecked": "2025-12-16",
+        "historicalDataLink": "https://www.ebay.com/sh/research?marketplace=EBAY-US&keywords=2023+Detroit+Lions+Collector+Coin&dayRange=1095",
+        "lastSoldPrice": null,
+        "marketValue": 15.00,
+        "historicalSellThrough": "Limited data",
+        "activeListingsLink": "https://www.ebay.com/sch/i.html?_nkw=2023+Detroit+Lions+Collector+Coin&_sacat=0",
+        "currentAskingPrice": 15.00,
+        "currentAskingPriceNote": "estimated",
+        "numberOfActiveListings": "Limited listings"
+      }
+    ],
+    "salesPerformance": [
+      {
+        "date": "2025-12-16",
+        "lastSoldPrice": null,
+        "sellThrough": "Limited data"
+      }
+    ],
+    "currentListings": [
+      {
+        "date": "2025-12-16",
+        "totalActiveListings": "Limited",
+        "listingsWithin20PercentOfLastSold": null,
+        "avgAskingPriceWithin20Percent": 15.00,
+        "avgAskingPriceNote": "estimated"
+      }
+    ],
+    "observations": [
+      "Season ticket holder exclusivity adds to collectibility",
+      "2023 marked a turning point season for the Lions organization",
+      "Collector coins are unique non-bobblehead collectibles in the Lions gift lineup",
+      "Limited distribution compared to stadium giveaways",
+      "Condition is important for maintaining value",
+      "May appreciate as Lions continue their competitive success"
+    ]
+  },
+  "purchaseHistory": [
+    {
+      "datePurchased": "2025-12-11",
+      "purchasePrice": 12.00,
+      "source": "Facebook Marketplace",
+      "quantity": 1,
+      "condition": "Excellent",
+      "status": "Inventory",
+      "notes": ""
+    }
+  ],
+  "positionAnalysis": [
+    {
+      "dateChecked": "2025-12-16",
+      "costBasis": 12.00,
+      "value": 15.00,
+      "realizedProfits": 0.00,
+      "roi": 25.00,
+      "postFeeRoi": 6.25
+    }
+  ],
+  "currentInventory": [
+    {
+      "date": "2025-12-16",
+      "quantity": 1,
+      "condition": "Excellent",
+      "currentValuePerUnit": 15.00
+    }
+  ],
+  "saleHistory": [],
+  "roiAnalysis": {
+    "totalPurchaseAmount": 12.00,
+    "purchaseDate": "2025-12-11",
+    "currentMarketValue": 15.00,
+    "feeAdjustedMarketValue": 12.75,
+    "feeAdjustedNote": "85% of market value (after fees)",
+    "marketValueDate": "2025-12-16",
+    "holdingPeriodDays": 5,
+    "unrealizedGainLoss": 3.00,
+    "roiPercentage": 25.00,
+    "feeAdjustedRoiPercentage": 6.25,
+    "annualizedRoi": 25.99,
+    "annualizedRoiNote": "Based on 350-day holding period from Jan 1",
+    "feeAdjustedAnnualizedRoi": 6.48,
+    "feeAdjustedAnnualizedRoiNote": "Annualized return after 15% fees"
+  }
+}

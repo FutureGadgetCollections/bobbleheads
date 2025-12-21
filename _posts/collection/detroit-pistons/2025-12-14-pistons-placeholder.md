@@ -29,4 +29,4 @@ Content coming soon...
 
 ---
 
-[Back to Detroit Pistons Collection](/collection/detroit-pistons/)
+[Back to Detroit Pistons Collection](/bobbleheads/collection/detroit-pistons/)

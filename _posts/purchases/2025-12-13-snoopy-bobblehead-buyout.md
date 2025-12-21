@@ -27,11 +27,17 @@ This purchase was sourced from a Facebook Marketplace listing featuring two Detr
 
 ## Items Acquired
 
-| Item | Year | Type | Purchase Price | Market Value |
-|------|------|------|----------------|--------------|
-| Snoopy Bobblehead | 2025 | Stadium Giveaway | $38.00 | $60.00 |
-| Riley Green Bobblehead | 2023 | Stadium Giveaway | $22.00 | $35.00 |
-| **TOTAL** | | | **$60.00** | **$95.00** |
+**Snoopy Bobblehead (2025)**
+- Type: Stadium Giveaway
+- Purchase Price: $38.00
+- Market Value: $60.00
+
+**Riley Green Bobblehead (2023)**
+- Type: Stadium Giveaway
+- Purchase Price: $22.00
+- Market Value: $35.00
+
+**TOTAL:** $60.00 (Purchase Price) / $95.00 (Market Value)
 
 *Note: Individual item pricing allocated based on proportional market values.*
 

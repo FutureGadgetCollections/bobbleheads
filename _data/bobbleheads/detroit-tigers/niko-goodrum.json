@@ -1,0 +1,94 @@
+{
+  "item": {
+    "name": "2021 Niko Goodrum Bobblehead - Stadium Giveaway",
+    "year": 2021,
+    "player": "Niko Goodrum",
+    "itemType": "Stadium Giveaway",
+    "distribution": "Given to first 15,000 fans in attendance",
+    "team": "Detroit Tigers"
+  },
+  "marketResearch": {
+    "ebayMarketAnalysis": [
+      {
+        "dateChecked": "2025-12-20",
+        "historicalDataLink": "https://www.ebay.com/sh/research?marketplace=EBAY-US&keywords=2021+Niko+Goodrum+Tigers+Bobblehead&dayRange=1095",
+        "lastSoldPrice": null,
+        "marketValue": 12.00,
+        "historicalSellThrough": "Limited data",
+        "activeListingsLink": "https://www.ebay.com/sch/i.html?_nkw=2021+Niko+Goodrum+Tigers+Bobblehead&_sacat=0",
+        "currentAskingPrice": 12.00,
+        "currentAskingPriceNote": "estimated",
+        "numberOfActiveListings": "Limited listings"
+      }
+    ],
+    "salesPerformance": [
+      {
+        "date": "2025-12-20",
+        "lastSoldPrice": null,
+        "sellThrough": "Limited data"
+      }
+    ],
+    "currentListings": [
+      {
+        "date": "2025-12-20",
+        "totalActiveListings": "Limited",
+        "listingsWithin20PercentOfLastSold": null,
+        "avgAskingPriceWithin20Percent": 12.00,
+        "avgAskingPriceNote": "estimated for used condition"
+      }
+    ],
+    "observations": [
+      "2021 Tigers stadium giveaway",
+      "Niko Goodrum played for Tigers 2018-2021",
+      "Utility player with versatility",
+      "More recent item - 4 years old",
+      "Used condition affects value"
+    ]
+  },
+  "purchaseHistory": [
+    {
+      "datePurchased": "2025-12-20",
+      "purchasePrice": 5.00,
+      "source": "Flint Used Collection Buyout",
+      "quantity": 1,
+      "condition": "Used",
+      "status": "Inventory",
+      "notes": "Part of 16-item bulk purchase"
+    }
+  ],
+  "positionAnalysis": [
+    {
+      "dateChecked": "2025-12-20",
+      "costBasis": 5.00,
+      "value": 12.00,
+      "realizedProfits": 0.00,
+      "roi": 140.00,
+      "postFeeRoi": 104.00
+    }
+  ],
+  "currentInventory": [
+    {
+      "date": "2025-12-20",
+      "quantity": 1,
+      "condition": "Used",
+      "currentValuePerUnit": 12.00
+    }
+  ],
+  "saleHistory": [],
+  "roiAnalysis": {
+    "totalPurchaseAmount": 5.00,
+    "purchaseDate": "2025-12-20",
+    "currentMarketValue": 12.00,
+    "feeAdjustedMarketValue": 10.20,
+    "feeAdjustedNote": "85% of market value (after fees)",
+    "marketValueDate": "2025-12-20",
+    "holdingPeriodDays": 0,
+    "unrealizedGainLoss": 7.00,
+    "roiPercentage": 140.00,
+    "feeAdjustedRoiPercentage": 104.00,
+    "annualizedRoi": 140.00,
+    "annualizedRoiNote": "Based on 350-day holding period from Jan 1",
+    "feeAdjustedAnnualizedRoi": 104.00,
+    "feeAdjustedAnnualizedRoiNote": "Annualized return after 15% fees"
+  }
+}

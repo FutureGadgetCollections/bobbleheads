@@ -1,0 +1,95 @@
+{
+  "item": {
+    "name": "2024 Jahmyr Gibbs Bobblehead - Stadium Giveaway",
+    "year": 2024,
+    "player": "Jahmyr Gibbs",
+    "playerNumber": 26,
+    "itemType": "Stadium Giveaway",
+    "distribution": "Given to the first 25,000 fans in attendance",
+    "team": "Detroit Lions"
+  },
+  "marketResearch": {
+    "ebayMarketAnalysis": [
+      {
+        "dateChecked": "2025-12-16",
+        "historicalDataLink": "https://www.ebay.com/sh/research?marketplace=EBAY-US&keywords=2024+Jahmyr+Gibbs+Bobblehead+NIB&dayRange=1095&endDate=1765862195601&startDate=1671254195601&categoryId=0&offset=0&limit=50&sorting=-datelastsold&tabName=SOLD&tz=America%2FNew_York",
+        "lastSoldPrice": 75.00,
+        "marketValue": 75.00,
+        "historicalSellThrough": "~2 sales/year",
+        "activeListingsLink": "https://www.ebay.com/sch/i.html?_nkw=2024+Jahmyr+Gibbs+Bobblehead+NIB&_sacat=0&_from=R40&_trksid=p4624852.m570.l1313",
+        "currentAskingPrice": 90.00,
+        "currentAskingPriceNote": "avg bottom 3",
+        "numberOfActiveListings": 11
+      }
+    ],
+    "salesPerformance": [
+      {
+        "date": "2025-12-16",
+        "lastSoldPrice": 75.00,
+        "sellThrough": "2 sales/year"
+      }
+    ],
+    "currentListings": [
+      {
+        "date": "2025-12-16",
+        "totalActiveListings": 11,
+        "listingsWithin20PercentOfLastSold": 3,
+        "avgAskingPriceWithin20Percent": 75.00
+      }
+    ],
+    "observations": [
+      "This is a relatively new collectible (2024 season)",
+      "Jahmyr Gibbs' growing popularity may drive future demand",
+      "Low sales volume indicates this may be a longer-term hold",
+      "Current asking prices suggest sellers expect appreciation",
+      "NIB (New in Box) condition is critical for maintaining value",
+      "Future performance may correlate with Gibbs' NFL career success"
+    ]
+  },
+  "purchaseHistory": [
+    {
+      "datePurchased": "2025-12-11",
+      "purchasePrice": 60.00,
+      "source": "Facebook Marketplace",
+      "quantity": 1,
+      "condition": "New in Box (NIB)",
+      "status": "Inventory",
+      "notes": ""
+    }
+  ],
+  "positionAnalysis": [
+    {
+      "dateChecked": "2025-12-16",
+      "costBasis": 60.00,
+      "value": 75.00,
+      "realizedProfits": 0.00,
+      "roi": 25.00,
+      "postFeeRoi": 6.25
+    }
+  ],
+  "currentInventory": [
+    {
+      "date": "2025-12-16",
+      "quantity": 1,
+      "condition": "New in Box (NIB)",
+      "currentValuePerUnit": 75.00
+    }
+  ],
+  "saleHistory": [],
+  "roiAnalysis": {
+    "totalPurchaseAmount": 60.00,
+    "purchaseDate": "2025-12-11",
+    "currentMarketValue": 75.00,
+    "feeAdjustedMarketValue": 63.75,
+    "feeAdjustedNote": "85% of market value (after fees)",
+    "marketValueDate": "2025-12-16",
+    "holdingPeriodDays": 5,
+    "unrealizedGainLoss": 15.00,
+    "roiPercentage": 25.00,
+    "feeAdjustedRoiPercentage": 6.25,
+    "annualizedRoi": 25.99,
+    "annualizedRoiNote": "Based on 350-day holding period from Jan 1",
+    "feeAdjustedAnnualizedRoi": 6.48,
+    "feeAdjustedAnnualizedRoiNote": "Annualized return after 15% fees"
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "item": {
+    "name": "2025 Snoopy Bobblehead - Stadium Giveaway",
+    "year": 2025,
+    "character": "Snoopy (Peanuts)",
+    "itemType": "Stadium Giveaway",
+    "distribution": "Given to the first 15,000 fans in attendance (typical for Tigers giveaways)",
+    "team": "Detroit Tigers"
+  },
+  "marketResearch": {
+    "ebayMarketAnalysis": [
+      {
+        "dateChecked": "2025-12-15",
+        "historicalDataLink": "https://www.ebay.com/sh/research?marketplace=EBAY-US&keywords=2025+Snoopy+Tigers+Bobblehead+NIB&dayRange=1095",
+        "lastSoldPrice": 75.00,
+        "marketValue": 60.00,
+        "historicalSellThrough": "11 sales (June 2025)",
+        "activeListingsLink": "https://www.ebay.com/sch/i.html?_nkw=2025+Snoopy+Tigers+Bobblehead+NIB&_sacat=0",
+        "currentAskingPrice": 60.00,
+        "numberOfActiveListings": 4
+      }
+    ],
+    "salesPerformance": [
+      {
+        "date": "2025-12-15",
+        "lastSoldPrice": 75.00,
+        "sellThrough": "11 sales (June 2025)"
+      }
+    ],
+    "currentListings": [
+      {
+        "date": "2025-12-15",
+        "totalActiveListings": 4,
+        "listingsWithin20PercentOfLastSold": 0,
+        "avgAskingPriceWithin20Percent": 60.00
+      }
+    ],
+    "observations": [
+      "2025 current season release (June 2025 giveaway)",
+      "Strong initial sales of 11 units during giveaway month at $75",
+      "Market has adjusted down to $60 as supply stabilized",
+      "Snoopy crossover appeal attracts Peanuts collectors in addition to baseball fans",
+      "Limited to first 15,000 attendees (typical Tigers distribution)",
+      "NIB (New in Box) condition is critical for maintaining value",
+      "Crossover themed bobbleheads often have broader collector appeal",
+      "Price decline from $75 to $60 reflects typical post-giveaway market correction"
+    ]
+  },
+  "purchaseHistory": [
+    {
+      "datePurchased": "2025-12-13",
+      "purchasePrice": 38.00,
+      "source": "Facebook Marketplace",
+      "quantity": 1,
+      "condition": "NIB",
+      "status": "Inventory",
+      "notes": "Part of Snoopy Bobblehead Buyout"
+    }
+  ],
+  "positionAnalysis": [
+    {
+      "dateChecked": "2025-12-15",
+      "costBasis": 38.00,
+      "value": 60.00,
+      "realizedProfits": 0.00,
+      "roi": 57.89,
+      "postFeeRoi": 34.21
+    }
+  ],
+  "currentInventory": [
+    {
+      "date": "2025-12-15",
+      "quantity": 1,
+      "condition": "NIB",
+      "currentValuePerUnit": 60.00
+    }
+  ],
+  "saleHistory": [],
+  "roiAnalysis": {
+    "totalPurchaseAmount": 38.00,
+    "purchaseDate": "2025-12-13",
+    "currentMarketValue": 60.00,
+    "feeAdjustedMarketValue": 51.00,
+    "feeAdjustedNote": "85% of market value (after fees)",
+    "marketValueDate": "2025-12-15",
+    "holdingPeriodDays": 2,
+    "unrealizedGainLoss": 22.00,
+    "roiPercentage": 57.89,
+    "feeAdjustedRoiPercentage": 34.21,
+    "annualizedRoi": 60.44,
+    "annualizedRoiNote": "Based on 349-day holding period from Jan 1",
+    "feeAdjustedAnnualizedRoi": 35.61,
+    "feeAdjustedAnnualizedRoiNote": "Annualized return after 15% fees"
+  }
+}

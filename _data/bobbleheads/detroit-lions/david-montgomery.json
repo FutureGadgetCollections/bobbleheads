@@ -1,0 +1,95 @@
+{
+  "item": {
+    "name": "2024 David Montgomery Bobblehead - Stadium Giveaway",
+    "year": 2024,
+    "player": "David Montgomery",
+    "playerNumber": 5,
+    "itemType": "Stadium Giveaway",
+    "distribution": "Given to the first 25,000 fans in attendance",
+    "team": "Detroit Lions"
+  },
+  "marketResearch": {
+    "ebayMarketAnalysis": [
+      {
+        "dateChecked": "2025-12-16",
+        "historicalDataLink": "https://www.ebay.com/sh/research?marketplace=EBAY-US&keywords=2024+David+Montgomery+Bobblehead+NIB&dayRange=1095",
+        "lastSoldPrice": 70.00,
+        "lastSoldPriceNote": "avg",
+        "marketValue": 65.00,
+        "historicalSellThrough": "2 sales/year",
+        "activeListingsLink": "https://www.ebay.com/sch/i.html?_nkw=2024+David+Montgomery+Bobblehead+NIB&_sacat=0",
+        "currentAskingPrice": 85.00,
+        "currentAskingPriceNote": "avg",
+        "numberOfActiveListings": 7
+      }
+    ],
+    "salesPerformance": [
+      {
+        "date": "2025-12-16",
+        "lastSoldPrice": 70.00,
+        "sellThrough": "2 sales/year"
+      }
+    ],
+    "currentListings": [
+      {
+        "date": "2025-12-16",
+        "totalActiveListings": 7,
+        "listingsWithin20PercentOfLastSold": 0,
+        "avgAskingPriceWithin20Percent": 65.00
+      }
+    ],
+    "observations": [
+      "This is a relatively new collectible (2024 season)",
+      "Montgomery is part of one of the NFL's most dynamic rushing duos",
+      "Team success in 2024 may drive increased demand for collectibles",
+      "NIB (New in Box) condition is critical for maintaining value",
+      "Future performance may correlate with Montgomery's NFL career success"
+    ]
+  },
+  "purchaseHistory": [
+    {
+      "datePurchased": "2025-12-11",
+      "purchasePrice": 52.00,
+      "source": "Facebook Marketplace",
+      "quantity": 1,
+      "condition": "New in Box (NIB)",
+      "status": "Inventory",
+      "notes": ""
+    }
+  ],
+  "positionAnalysis": [
+    {
+      "dateChecked": "2025-12-16",
+      "costBasis": 52.00,
+      "value": 65.00,
+      "realizedProfits": 0.00,
+      "roi": 25.00,
+      "postFeeRoi": 6.25
+    }
+  ],
+  "currentInventory": [
+    {
+      "date": "2025-12-16",
+      "quantity": 1,
+      "condition": "New in Box (NIB)",
+      "currentValuePerUnit": 65.00
+    }
+  ],
+  "saleHistory": [],
+  "roiAnalysis": {
+    "totalPurchaseAmount": 52.00,
+    "purchaseDate": "2025-12-11",
+    "currentMarketValue": 65.00,
+    "feeAdjustedMarketValue": 55.25,
+    "feeAdjustedNote": "85% of market value (after fees)",
+    "marketValueDate": "2025-12-16",
+    "holdingPeriodDays": 5,
+    "unrealizedGainLoss": 13.00,
+    "roiPercentage": 25.00,
+    "feeAdjustedRoiPercentage": 6.25,
+    "annualizedRoi": 25.99,
+    "annualizedRoiNote": "Based on 350-day holding period from Jan 1",
+    "feeAdjustedAnnualizedRoi": 6.48,
+    "feeAdjustedAnnualizedRoiNote": "Annualized return after 15% fees"
+  }
+}

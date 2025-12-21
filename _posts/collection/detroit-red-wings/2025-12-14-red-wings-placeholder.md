@@ -29,4 +29,4 @@ Content coming soon...
 
 ---
 
-[Back to Detroit Red Wings Collection](/collection/detroit-red-wings/)
+[Back to Detroit Red Wings Collection](/bobbleheads/collection/detroit-red-wings/)

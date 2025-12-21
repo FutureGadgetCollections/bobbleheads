@@ -6,11 +6,25 @@ author_profile: false
 classes: wide
 ---
 
-## Bobbleheads
+![Detroit Red Wings]({{ site.baseurl }}/assets/images/themes/red-wings.png)
+
+## Collection Summary
 
 {% assign red_wings_posts = site.categories.detroit-red-wings %}
 {% for post in red_wings_posts %}
-  {% include archive-single.html %}
+  {% if post.permalink == "/collection/detroit-red-wings/collection-summary/" %}
+    {% include archive-single.html %}
+  {% endif %}
+{% endfor %}
+
+---
+
+## Individual Bobbleheads - Market Research & Analysis
+
+{% for post in red_wings_posts %}
+  {% if post.permalink != "/collection/detroit-red-wings/collection-summary/" %}
+    {% include archive-single.html %}
+  {% endif %}
 {% endfor %}
 
 ---
