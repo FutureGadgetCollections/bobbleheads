@@ -1,0 +1,95 @@
+{
+  "item": {
+    "name": "2024 Calvin Johnson Bobblehead - Stadium Giveaway",
+    "year": 2024,
+    "player": "Calvin Johnson (#81)",
+    "itemType": "Stadium Giveaway",
+    "distribution": "Given to early arriving fans",
+    "team": "Detroit Lions"
+  },
+  "marketResearch": {
+    "ebayMarketAnalysis": [
+      {
+        "dateChecked": "2025-12-21",
+        "historicalDataLink": "https://www.ebay.com/sh/research?marketplace=EBAY-US&keywords=2024+Calvin+Johnson+Lions+Bobblehead&dayRange=1095",
+        "lastSoldPrice": null,
+        "marketValue": 38.00,
+        "historicalSellThrough": "To be updated",
+        "activeListingsLink": "https://www.ebay.com/sch/i.html?_nkw=2024+Calvin+Johnson+Lions+Bobblehead&_sacat=0",
+        "currentAskingPrice": 38.00,
+        "currentAskingPriceNote": "To be updated with research",
+        "numberOfActiveListings": "To be updated"
+      }
+    ],
+    "salesPerformance": [
+      {
+        "date": "2025-12-21",
+        "lastSoldPrice": null,
+        "sellThrough": "To be updated"
+      }
+    ],
+    "currentListings": [
+      {
+        "date": "2025-12-21",
+        "totalActiveListings": "To be updated",
+        "listingsWithin20PercentOfLastSold": null,
+        "avgAskingPriceWithin20Percent": 38.00,
+        "avgAskingPriceNote": "To be updated with research"
+      }
+    ],
+    "observations": [
+      "2024 Lions stadium giveaway",
+      "Calvin Johnson - Hall of Fame wide receiver",
+      "Known as 'Megatron' - iconic Lions player",
+      "Played entire career with Detroit (2007-2015)",
+      "High collectibility due to Hall of Fame status",
+      "New in box condition"
+    ]
+  },
+  "purchaseHistory": [
+    {
+      "datePurchased": "2025-12-11",
+      "purchasePrice": 30.00,
+      "source": "Season Ticket Holder Buyout - Facebook Marketplace",
+      "quantity": 1,
+      "condition": "New in box",
+      "status": "Inventory",
+      "notes": "Part of 7-item bulk purchase from Lions season ticket holder"
+    }
+  ],
+  "positionAnalysis": [
+    {
+      "dateChecked": "2025-12-21",
+      "costBasis": 30.00,
+      "value": 38.00,
+      "realizedProfits": 0.00,
+      "roi": 26.67,
+      "postFeeRoi": 13.33
+    }
+  ],
+  "currentInventory": [
+    {
+      "date": "2025-12-21",
+      "quantity": 1,
+      "condition": "New in box",
+      "currentValuePerUnit": 38.00
+    }
+  ],
+  "saleHistory": [],
+  "roiAnalysis": {
+    "totalPurchaseAmount": 30.00,
+    "purchaseDate": "2025-12-11",
+    "currentMarketValue": 38.00,
+    "feeAdjustedMarketValue": 32.30,
+    "feeAdjustedNote": "85% of market value (after fees)",
+    "marketValueDate": "2025-12-21",
+    "holdingPeriodDays": 10,
+    "unrealizedGainLoss": 8.00,
+    "roiPercentage": 26.67,
+    "feeAdjustedRoiPercentage": 7.67,
+    "annualizedRoi": 972.92,
+    "annualizedRoiNote": "Based on 10-day holding period",
+    "feeAdjustedAnnualizedRoi": 279.76,
+    "feeAdjustedAnnualizedRoiNote": "Annualized return after 15% fees"
+  }
+}

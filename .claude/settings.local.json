@@ -7,7 +7,12 @@
       "Bash(git mv:*)",
       "Bash(mkdir:*)",
       "Bash(mv:*)",
-      "Bash(git reset:*)"
+      "Bash(git reset:*)",
+      "WebFetch(domain:docs.google.com)",
+      "WebFetch(domain:doc-0g-9g-sheets.googleusercontent.com)",
+      "WebFetch(domain:github.com)",
+      "WebFetch(domain:raw.githubusercontent.com)",
+      "WebFetch(domain:doc-04-9g-sheets.googleusercontent.com)"
     ]
   }
 }
